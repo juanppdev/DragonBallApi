@@ -22,7 +22,7 @@ async def root():
 @app.get("/url")
 async def url():
     return {"Gracias":"Por usar esta api"}
-    
+
 #Inicia el server: uvicorn main:app --reload
 # Detener el server: CTRL+C
 
