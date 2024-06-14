@@ -6,7 +6,7 @@ from db.schemas.sagas import saga_schema, sagas_schema
 from db.client import db_client
 from bson import ObjectId
 
-router = APIRouter(prefix="/dragonballz",
+router = APIRouter(prefix="/dragonball",
                    tags=["dragonball"],
                    responses={status.HTTP_404_NOT_FOUND: {"message": "No encontrado"}})
 

@@ -11,4 +11,13 @@ class SagaBall(BaseModel): # Primera Saga
     description: str
     biography: str
 
-#class SagaBallZ(BaseModel):
+class SagaBallZ(BaseModel):
+    id: str
+    name: str
+    genre: str
+    race: str
+    image: str
+    planet: str
+    description: str
+    biography: str
+    transformations: dict
