@@ -2,7 +2,7 @@
 
 from fastapi import APIRouter, HTTPException, status
 from db.models.sagas import SagaBallZ
-from db.schemas.sagas import saga_schemaZ, saga_schemaZ
+from db.schemas.sagas import saga_schemaZ, sagas_schemaZ
 from db.client import db_client
 from bson import ObjectId
 
@@ -13,7 +13,7 @@ router = APIRouter(prefix="/dragonballz",
 
 @router.get("/", response_model=list[SagaBallZ])
 async def sagaball():
-    return saga_schemaZ(db_client.sagaballz.find())
+    return sagas_schemaZ(db_client.sagaballz.find())
 
 
 @router.get("/{id}")  # Path
@@ -52,7 +52,7 @@ async def character(character: SagaBallZ):
         db_client.sagaballz.find_one_and_replace(
             {"_id": ObjectId(character.id)}, character_dict)
     except:
-        return {"error": "No se ha actualizado el usuario"}
+        return {"error": "No se ha actualizado el Personaje"}
 
     return search_character("_id", ObjectId(character.id))
 

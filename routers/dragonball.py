@@ -30,7 +30,7 @@ async def character(id: str):
 async def character(character: SagaBall):
     if type(search_character("name", character.name)) == SagaBall:
         raise HTTPException(
-            status_code=status.HTTP_404_NOT_FOUND, detail="El usuario ya existe")
+            status_code=status.HTTP_404_NOT_FOUND, detail="El Personaje ya existe")
 
     character_dict = dict(character)
     del character_dict["id"]
@@ -52,7 +52,7 @@ async def character(character: SagaBall):
         db_client.sagaball.find_one_and_replace(
             {"_id": ObjectId(character.id)}, character_dict)
     except:
-        return {"error": "No se ha actualizado el usuario"}
+        return {"error": "No se ha actualizado el Personaje"}
 
     return search_character("_id", ObjectId(character.id))
 
@@ -63,7 +63,7 @@ async def character(id: str):
     found = db_client.sagaball.find_one_and_delete({"_id": ObjectId(id)})
 
     if not found:
-        return {"error": "No se ha eliminado el usuario"}
+        return {"error": "No se ha eliminado el Personaje"}
 
 # Helper
 
@@ -74,4 +74,4 @@ def search_character(field: str, key):
         character = db_client.sagaball.find_one({field: key})
         return SagaBall(**saga_schema(character))
     except:
-        return {"error": "No se ha encontrado el usuario"}
+        return {"error": "No se ha encontrado el Personaje"}
