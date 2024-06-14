@@ -10,3 +10,5 @@ class SagaBall(BaseModel): # Primera Saga
     planet: str
     description: str
     biography: str
+
+#class SagaBallZ(BaseModel):

@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from routers import dragonball
+from routers import dragonball, dragonballz
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import HTMLResponse, FileResponse
 
@@ -7,6 +7,7 @@ app = FastAPI()
 
 # Rouuters
 app.include_router(dragonball.router)
+app.include_router(dragonballz.router)
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
 @app.get("/", response_class=HTMLResponse)
