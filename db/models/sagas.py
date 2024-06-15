@@ -20,4 +20,4 @@ class SagaBallZ(BaseModel):
     planet: str
     description: str
     biography: str
-    transformations: dict
+    transformations: list[dict]
