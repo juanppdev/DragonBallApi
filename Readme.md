@@ -57,3 +57,7 @@ id (opcional): Filtra personajes por nombre.
         "description": "Dock (ドック Dokku[1]¿?) es un soldado del Ejército del Listón Rojo que trabaja en la Brigada Azul bajo el cargo de capitán para el General Blue en el manga y anime de Dragon Ball.",
         "biography": "Dock es enviado por el General Blue a la Casa Kame para robar el Radar del Dragón y secuestrar a Muten Roshi ya que piensan que es un científico y que él creó el radar. Cuándo llega a Kame House inmediatamente le pide a Muten Roshi el radar del dragón, luego lo amenaza con que si no le entrega también las Esferas del Dragón matará a Lunch. Pero Muten Roshi se niega y golpea fuertemente en el estómago a Dock, derrotando de paso a todos sus soldados, a excepción de dos, uno el cual fue asesinado por Lunch y otro que intenta escapar pero es visto y le ordena limpiar la isla que esta llena de todos los soldados derrotados, incluido Dock. Dock vuelve a aparecer en Dragon Ball GT escapando del Infierno, pero volvería al lugar luego de que Androide Número 17 del Infierno fuese derrotado por Son Goku."
     }
+
+![Captura de pantalla 2024-06-18 092548](https://github.com/juanppdev/DragonBallApi/assets/81490579/d292faa1-5dbc-4722-a731-88f7a17ea028)
+![Captura de pantalla 2024-06-18 092527](https://github.com/juanppdev/DragonBallApi/assets/81490579/acc266ff-7b55-4330-b133-c456c8ac5429)
+
