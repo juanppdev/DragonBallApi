@@ -50,7 +50,7 @@ fetch("https://apidragonball.vercel.app/dragonballz")
 
 
 
-  fetch("https://apidragonball.vercel.app/dragonball")
+  fetch("https://apidragonball.vercel.app/dragonball/")
   .then(response => {
     if (!response.ok) {
       throw new Error('La respuesta de la red no fue válida');
@@ -61,7 +61,7 @@ fetch("https://apidragonball.vercel.app/dragonballz")
     console.log(data); // Aquí puedes manejar los datos de la respuesta
 
 
-    const contenedor = document.querySelector("#container");
+    const container = document.querySelector("#container");
 
         // Itera sobre los datos y crea elementos HTML
         data.forEach((dato) => {
@@ -71,12 +71,12 @@ fetch("https://apidragonball.vercel.app/dragonballz")
             // Crea el contenido del elemento
             div.innerHTML = `
                 <div class="bg-white">
-                    <a href="https://apidragonball.vercel.app/dragonballz/${dato.id}">
+                    <a href="https://apidragonball.vercel.app/dragonball/${dato.id}">
                         <img class="rounded-t-lg" src="${dato.image}" alt="" />
                     </a>
                 </div>
                 <div class="p-5">
-                    <a href="https://apidragonball.vercel.app/dragonballz/${dato.id}">
+                    <a href="https://apidragonball.vercel.app/dragonball/${dato.id}">
                         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">${dato.name}</h5>
                     </a>
                     <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
@@ -92,7 +92,7 @@ fetch("https://apidragonball.vercel.app/dragonballz")
             `;
 
             // Agrega el elemento al contenedor
-            contenedor.appendChild(div);
+            container.appendChild(div);
         });
 
   })
