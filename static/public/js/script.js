@@ -1,4 +1,4 @@
-fetch("https://apidragonball.vercel.app/dragonballz")
+fetch("http://127.0.0.1:8000/dragonballz")
   .then(response => {
     if (!response.ok) {
       throw new Error('La respuesta de la red no fue válida');
