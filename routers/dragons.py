@@ -13,7 +13,7 @@ router = APIRouter(prefix="/dragons",
 
 @router.get("/", response_model=list[Dragons])
 async def sagaball():
-    return dragons(db_client.Dragons.find())
+    return dragons(db_client.dragons.find())
 
 
 @router.get("/{id}")  # Path
@@ -35,9 +35,9 @@ async def character(character: Dragons):
     character_dict = dict(character)
     del character_dict["id"]
 
-    id = db_client.Dragons.insert_one(character_dict).inserted_id
+    id = db_client.dragons.insert_one(character_dict).inserted_id
 
-    new_character = dragon(db_client.Dragons.find_one({"_id": id}))
+    new_character = dragon(db_client.dragons.find_one({"_id": id}))
 
     return Dragons(**new_character)
 
@@ -49,7 +49,7 @@ async def character(character: Dragons):
     del character_dict["id"]
 
     try:
-        db_client.Dragons.find_one_and_replace(
+        db_client.dragons.find_one_and_replace(
             {"_id": ObjectId(character.id)}, character_dict)
     except:
         return {"error": "No se ha actualizado el Personaje"}
@@ -60,7 +60,7 @@ async def character(character: Dragons):
 @router.delete("/{id}", status_code=status.HTTP_204_NO_CONTENT)
 async def character(id: str):
 
-    found = db_client.Dragons.find_one_and_delete({"_id": ObjectId(id)})
+    found = db_client.dragons.find_one_and_delete({"_id": ObjectId(id)})
 
     if not found:
         return {"error": "No se ha eliminado el usuario"}
@@ -71,7 +71,7 @@ async def character(id: str):
 def search_character(field: str, key):
 
     try:
-        character = db_client.Dragons.find_one({field: key})
+        character = db_client.dragons.find_one({field: key})
         return Dragons(**dragon(character))
     except:
         return {"error": "No se ha encontrado el usuario"}
