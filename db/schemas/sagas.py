@@ -29,3 +29,17 @@ def saga_schemaZ(user) -> dict:
 
 def sagas_schemaZ(sagaball) -> list:
     return [saga_schemaZ(user) for user in sagaball]
+
+
+# Dragones
+
+def dragon(user) -> dict:
+    return {"id": str(user["_id"]),
+            "name": user["name"],
+            "image": user["image"],
+            "description": user["description"],
+            "biography": user["biography"]}
+
+
+def dragons(sagaball) -> list:
+    return [saga_schemaZ(user) for user in sagaball]

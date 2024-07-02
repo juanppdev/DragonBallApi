@@ -21,3 +21,10 @@ class SagaBallZ(BaseModel):
     description: str
     biography: str
     transformations: list[dict]
+
+class Dragons(BaseModel):
+    id: str
+    name: str
+    image: str
+    description: str
+    biography: str
