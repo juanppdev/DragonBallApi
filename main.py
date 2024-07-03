@@ -8,6 +8,7 @@ app = FastAPI()
 # Rouuters
 app.include_router(dragonball.router)
 app.include_router(dragonballz.router)
+app.include_router(dragons.router)
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
 @app.get("/", response_class=HTMLResponse)
