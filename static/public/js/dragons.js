@@ -9,7 +9,7 @@ fetch("https://apidragonball.vercel.app/dragons")
     console.log(data); // Aquí puedes manejar los datos de la respuesta
 
 
-    const container = document.querySelector("#content");
+    const content = document.querySelector("#content");
 
         // Itera sobre los datos y crea elementos HTML
         data.forEach((dato) => {
@@ -19,19 +19,19 @@ fetch("https://apidragonball.vercel.app/dragons")
             // Crea el contenido del elemento
             div.innerHTML = `
                 <div class="bg-white">
-                    <a href="https://apidragonball.vercel.app/dragons/${dato.id}">
+                    <a href="https://apidragonball.vercel.app/dragonball/${dato.id}">
                         <img class="rounded-t-lg" src="${dato.image}" alt="" />
                     </a>
                 </div>
                 <div class="p-5">
-                    <a href="https://apidragonball.vercel.app/dragons/${dato.id}">
+                    <a href="https://apidragonball.vercel.app/dragonball/${dato.id}">
                         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">${dato.name}</h5>
                     </a>
                 </div>
             `;
 
             // Agrega el elemento al contenedor
-            container.appendChild(div);
+            content.appendChild(div);
         });
 
   })
