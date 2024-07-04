@@ -42,4 +42,4 @@ def dragon(user) -> dict:
 
 
 def dragons(sagaball) -> list:
-    return [saga_schemaZ(user) for user in sagaball]
+    return [dragon(user) for user in sagaball]
