@@ -19,12 +19,12 @@ fetch("https://apidragonball.vercel.app/dragons")
             // Crea el contenido del elemento
             div.innerHTML = `
                 <div class="bg-white">
-                    <a href="https://apidragonball.vercel.app/dragonball/${dato.id}">
+                    <a href="https://apidragonball.vercel.app/dragons/${dato.id}">
                         <img class="rounded-t-lg" src="${dato.image}" alt="" />
                     </a>
                 </div>
                 <div class="p-5">
-                    <a href="https://apidragonball.vercel.app/dragonball/${dato.id}">
+                    <a href="https://apidragonball.vercel.app/dragons/${dato.id}">
                         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">${dato.name}</h5>
                     </a>
                 </div>
