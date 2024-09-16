@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 from fastapi import FastAPI
-from routers import dragonball, dragonballz, dragonballgt, dragons
+from routers import dragonball, dragonballz, dragonballgt, dragonballsuper, dragons
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import HTMLResponse, FileResponse
 
@@ -11,6 +11,7 @@ app = FastAPI()
 app.include_router(dragonball.router)
 app.include_router(dragonballz.router)
 app.include_router(dragonballgt.router)
+app.include_router(dragonballsuper.router)
 app.include_router(dragons.router)
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
