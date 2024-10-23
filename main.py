@@ -8,9 +8,13 @@ from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
 
+origins = [
+    "https://www.dragonballapi.com/"
+]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[""],  # Permitir todos los orígenes
+    allow_origins=["*"],  # Permitir todos los orígenes
     allow_credentials=True,
     allow_methods=[""],  # Permitir todos los métodos (GET, POST, etc.)
     allow_headers=["*"],  # Permitir todos los encabezados
