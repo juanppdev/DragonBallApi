@@ -4,8 +4,17 @@ from fastapi import FastAPI
 from routers import dragonball, dragonballz, dragonballgt, dragonballsuper, dragons
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import HTMLResponse, FileResponse
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[""],  # Permitir todos los orígenes
+    allow_credentials=True,
+    allow_methods=[""],  # Permitir todos los métodos (GET, POST, etc.)
+    allow_headers=["*"],  # Permitir todos los encabezados
+)
 
 # Rouuters
 app.include_router(dragonball.router)
