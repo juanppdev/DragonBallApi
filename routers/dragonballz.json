@@ -4,7 +4,7 @@
     "name": "Androide Número 16",
     "genre": "Masculino",
     "race": "Cyborg",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Androide16.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Androide16.png",
     "planet": "Tierra",
     "description": "Número 16 fue creado por Gero al tomar como referencia a Gebo o «Gold» entre el Alto Mando del Listón Rojo para conmemorar a su hijo biológico que cayó en combate tras impactarle una bala enemiga.",
     "biography": "El androide número 16 apareció por primera vez dentro de su cápsula contenedora en el Laboratorio del Dr. Gero. Desde un principio, los androides número 17 y 18 trataron de convencer al Dr. Gero de liberarlo, pero este se rehusaba, causando como consecuencia su muerte. Una vez eliminado el Dr. Gero, el androide número 17 procedió a despertar al androide número 16, pero son interrumpidos por Trunks, quien utiliza todas sus fuerzas para evitar que este sea reactivado. Sin embargo, los androides logran despertarlo fácilmente. Al despertar, el androide número 16 causó un gran miedo a todos debido a su inmenso tamaño, así como fuerza física. Sus compañeros androides intentaron persuadirlo para que eliminara a los Guerreros Z, pero el androide se rehúsa al decir que su único objetivo era Son Goku. Impresionados, los androides número 17 y 18 se marchan resignados junto a número 16.",
@@ -22,7 +22,7 @@
     "name": "Bobbidi",
     "genre": "Masculino",
     "race": "Madoshi",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Bobbidi.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Bobbidi.png",
     "planet": "Desconocido",
     "description": "Bobbidi, hijo de Bibbidi, es heredero de los poderes así como de las intenciones de su padre Bibbidi. Es un mago que viaja a la Tierra para recolectar energía y de este modo despertar el letargo de Majin-Boo. Aunque se desconoce la edad de este poderoso mago, su aspecto unido al hecho de que su padre ya existiera hace unos 5 millones de años nos garantiza que ha poseído una existencia muy longeva. Este malvado mago viajó hasta el planeta Tierra con la intención de liberar a Boo, un terrible ser creado por su padre y que destruyó cientos de mundos en la antigüedad hasta que el Kaio-shin del Este acabó con Bibbidi y el monstruo quedó encerrado en una esfera.",
     "biography": "Junto con Bobbidi llegaron a la Tierra una serie de seres extraterrestres a los que había poseído, entre los cuales destacaba Darbra, a quien utilizaría como guardaespaldas personal. Majin-Boo estaba encerrado en la esfera y era necesaria una gran cantidad de energía para liberarlo. La Tierra, gracias a los saiyajin como Goku y Vegeta, se había convertido en el lugar idóneo para llevar a cabo el ritual de resurrección. Bobbidi consiguió que Spopovich y Yamu fueran sometidos bajo sus poderes y los hizo participar en el gran torneo mundial de artes marciales para robar la energía de otros. Obtuvieron la energía de Son Gohan y escaparon del torneo para entregar el Ki de Son Gohan al mago Bobbidi, siendo perseguidos por Kaio-shin del Este, Kibito, Krilin, Piccolo, Vegeta, Son Goku, Son Gohan (recuperado gracias a los poderes de Kibito) y Videl (aunque Videl al final abandonó la persecución). Mientras Videl volvía de la persecución, se encontró en el camino a Son Goten y a Trunks, ya que Goten y Trunks querían ver a un mago. Cuando Bobbidi obtiene la energía Ki de Son Gohan, asesina a Spopovich y Yamu, vertiendo la energía conseguida por ellos en la esfera que contiene a Majin-Boo. Bobbidi entonces se da cuenta de que han sido descubiertos por Goku, Gohan, Vegeta, Piccolo, Krilin, Kibito y el Kaio-shin del Este, el asesino de su padre. Decidido a vengarse de su padre, Bobbidi envía a sus subordinados Darbra, Pui Pui y Yakon. Bobbidi luego envía a Darbra de nuevo, quien pelea contra Gohan. Mientras pelean, Darbra se da cuenta de la maldad en el corazón de Vegeta. Darbra huye y le informa a Bobbidi de su hallazgo, quien entonces pone un hechizo en Vegeta, transformándolo en Majin Vegeta. Para sorpresa de Bobbidi, Majin Vegeta demuestra ser completamente desobediente, indicando que solo luchará contra Goku y no escuchará a Bobbidi. Bobbidi accede, puesto que las lesiones provocadas por Majin Vegeta proveerán a Majin-Boo de energía suficiente para despertar.",
@@ -40,7 +40,7 @@
     "name": "Broly",
     "genre": "Masculino",
     "race": "Saiyano",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Broly.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Broly.png",
     "planet": "Vegeta",
     "description": "Sin Descripción",
     "biography": "Sin Biografía",
@@ -48,13 +48,13 @@
       {
         "id": 0,
         "title": "Super Saiyajin tipo A",
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Super_Saiyan_A.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Super_Saiyan_A.png",
         "description": "La primera ocasión en que Broly se transforma en Super Saiyajin tipo A es luego de que su padre, Paragus, le colocara una corona para controlar su ira y evitar que afectara sus planes. Cuando Broly se percata de eso, intenta asesinar a Paragus, pero la corona se activa e impide que lo logre. En esta transformación el pelo de Broly cambia a color azul oscuro. En general, el estado de Super Saiyajin Tipo A es incompleto y no natural; además, Broly es el único que puede tenerlo. Cuando Broly se encuentra con Goku, los recuerdos del día en que nació regresan a él y se transforma en Super Saiyajin Tipo A, al intentar la transformación en Super Saiyajin Tipo C. La ira es tal que los ataques de los guerreros Z no logran hacerle ningún daño, a pesar de que la corona no le permite demostrar todo su poder."
       },
       {
         "id": 1,
         "title": "Super Saiyajin Tipo C",
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Broly_SS_Tipo_C.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Broly_SS_Tipo_C.png",
         "description": "Broly siempre tuvo la posibilidad de transformarse en Super Saiyajin desde pequeño, puesto que poseía un gran poder; además, era bastante agresivo. Por eso, Paragus le colocó un artefacto capaz de controlar su ira. Cuando Broly vio y escuchó a Goku, su ira se elevó al máximo. Ante la amenaza, Goku y Vegeta lo golpearon sin saber que estaban debilitando la corona que lo controlaba. El nivel de poder de Broly creció de tal manera que rompió la diadema y se transformó en Super Saiyajin Tipo C. En esta transformación Broly controla completamente su poder, pero no lo muestra al máximo, ya que es un estado previo al Super Saiyajin Legendario. La apariencia física de Broly es la del Super Saiyajin ordinario. Eso quiere decir que sus cejas y pelo se vuelven dorados, además de que su musculatura aumenta. Sin embargo, en Dragon Ball Z: Estalla el Duelo, la primera vez que adquiere este estado, su pelo es de color verde y no presenta pupilas."
       }
     ]
@@ -64,7 +64,7 @@
     "name": "Bulma",
     "genre": "Femenino",
     "race": "Humana",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/bulma.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/bulma.png",
     "planet": "Tierra",
     "description": "Bulma (ブルマ Buruma), también conocida como la científica genio Dra. Bulma (ブルマ 博士【はかせ】 Buruma Hakase[2]) es la protagonista femenina de la serie manga Dragon Ball y sus adaptaciones al anime Dragon Ball, Dragon Ball Z, Dragon Ball Super y Dragon Ball GT. Es hija del Dr. Brief y su esposa Panchy, hermana menor de Tights y una gran amiga de Son Goku con quien inicia la búsqueda de las Esferas del Dragón. En Dragon Ball Z tuvo a Trunks, primogénito de quien sería su esposo Vegeta, a su hija Bra[3] y su hijo adulto del tiempo alterno Trunks del Futuro Alternativo. Bulma es el personaje femenino más importante de la serie. Aparte de Goku, Bulma es el personaje de mayor duración única en toda la serie, que se introdujo en el primer capítulo y episodio de Dragon Ball, y mantiene un papel destacado hasta el último capítulo del manga, en Dragon Ball Super y el episodio final de Dragon Ball GT. Es la representación del personaje Xuanzang de la historia china Viaje al Oeste y fue el segundo personaje después de Goku.",
     "biography": "Aquí Bulma observa la pelea de Goku y Piccolo contra Raditz. Al morir Goku, ella ayuda a buscar las esferas para poder revivirlo para que pudiera luchar contra los siguientes Saiyan. Después vuelve a observar como matan a Yamcha, Piccolo, Chaoz y Tenshinhan, por lo que se pone muy triste. Luego decide ir a buscar las Esferas del Dragón del planeta Namek junto con Gohan y Krilin para revivir a Piccolo y así revivir a los demás. Bulma, acompañada por Krilin y Gohan, emprende un viaje al espacio para llegar a Namek. Antes de esto llegan a un misterioso planeta donde dos alienígenas crean la ilusión de ser Namekianos para irse de ahí, pero finalmente, los vencen y logran escapar para continuar el viaje. Después de un intenso viaje por el espacio, al fin llegan a Namek donde Bulma espera en la nave mientras Krilin y Gohan van por las Esferas, pero para su mayor sorpresa, Freezer se encuentra aquí también buscando las Esferas. Bulma se queda refugiada en una cueva, en la cual instaló con ayuda de sus cápsulas, una casa con todas las comodidades necesarias. Tiempo después Bulma se enamora del soldado Zarbon con solo verlo, cuando fue a enfrentar a Vegeta. Sin embargo, su encanto se perdió al verlo transformado en su forma más fuerte y presenció junto a Krilin, la batalla entre Zarbon y Vegeta. Bulma vive variadas aventuras refugiada en las montañas, ya que ella poseía una de las Esferas. En un momento, la Esfera del Dragón gira hasta llegar al río, y Bulma tiene que aventurarse en un robot extraído de las cápsulas, para así recuperarla. A pesar de todos los tropiezos, ella queda ilesa y recupera la Esfera, sin embargo, es secuestrada por el ejército de Freezer tiempo después. Cuando Ginyu se convirtió en rana, cambia forzosamente de cuerpo con Bulma porque Bulma construyó un collar que le permitía hablar, se toca los pechos y Bulma responde con sonidos de rana, luego se propone buscar a alguien para cambiar de cuerpo que sea más fuerte, para así lograr sus objetivos, sin embargo, esto se vuelve un intento inútil y Bulma lo vuelve a su forma original.",
@@ -82,7 +82,7 @@
     "name": "Butta",
     "genre": "Masculino",
     "race": "Butta",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Burter.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Burter.png",
     "planet": "Desconocido",
     "description": "Como todos los integrantes de las Fuerzas Especiales Ginew, los poderes de Butta se originaron en su infancia. Su madre era muy estricta, ella lo enviaba a realizar todas las tareas de la casa y le daba palmas si llegaba tarde a la cena. Debido a esto, según sus palabras, se convirtió en el más rápido del Universo. Pronto se uniría a las Fuerzas Especiales Ginew donde se apodó el 'Huracán Azul'.",
     "biography": "Sin Biografía",
@@ -100,7 +100,7 @@
     "name": "Cell",
     "genre": "Intersexuado",
     "race": "Bioandroide",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/cell.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/cell.png",
     "planet": "Tierra",
     "description": "Cell (セル Seru?), conocido como Célula en España, es un bioandroide creado por la computadora del Dr. Gero, quien vino del futuro de la línea 3 con la intención de vengarse de Goku por haber acabado con el Ejército del Listón Rojo, y con ello el sueño de todo villano: dominar el mundo. Es el antagonista principal del Arco de los Androides y Cell. Varios insectos sirvieron de modelo para el diseño de Cell. Además de su diseño, la forma en la que eclosiona de un huevo y arroja su piel a medida que crece se basó también en los insectos. Por lo tanto, Cell se asemeja mucho a un insecto, tanto en las apariencias como en la forma en que pasa a través de las diferentes etapas de metamorfosis. Cell en su primera forma tiene una apariencia similar a una mantis religiosa humanoide, posee una coraza en su cabeza con dos cuernos horizontales, y una larga cola. En el manga solo posee tres dedos, mientras que en el anime aparece con cinco dedos en las manos y tres en los pies. Cuando éste absorbe al Androide Número 17, su ta",
     "biography": "Cell era un proyecto del Dr. Gero, que decidió rendirse y abandonar porque iba a tomar demasiado tiempo. Pero cuando este murió, su computadora continuó trabajando, lo tomó y completó su formación, pero todavía faltaba la pieza clave: perfeccionar su cuerpo. Poco después de salir del huevo, Cell vio que estaba en un mundo con muy pocos humanos a los que absorber, en el que los androides con los que debería completar su cuerpo ya habían sido destruidos. Se enteró de que quien los destruyó (Trunks) iba a viajar al pasado, así que le atacó y lo asesinó, entró en la máquina del tiempo y fue al pasado, un año antes de la llegada de Freezer y su padre. Así fue como la historia cambió completamente, ya que su llegada hizo que otro individuo llegara al pasado que al parecer es el futuro hijo de Vegeta y Bulma que es Trunks, el cual fue el que derrotó a Freezer y no Goku (estaría 4 años incubando, hasta el despertar de los Androides que necesitaba para fusionarse) y dominar el mundo.",
@@ -108,19 +108,19 @@
       {
         "id": 0,
         "title": "Forma de Larva de Cell",
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/larbacell.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/larbacell.png",
         "description": "La primera forma de Cell que se introdujo en el anime de Dragon Ball fue su estado de larva. Esta es una transformación que se ve obligado a adoptar tras asesinar a Trunks de su línea temporal, de manera que pudiera caber en la máquina del tiempo de este y regresar al pasado para cumplir con su misión de absorber a los androides. Cell fue creado como un bio-androide y su primer estado era el de una larva. Después tuvo su primera transformación, que veremos a continuación, con la que fue capaz de eliminar a Trunks. Sin embargo, debió entrar en un estado de hibernación, encogiendo su tamaño en lo que parece ser una larva en crecimiento."
       },
       {
         "id": 1,
         "title": "Forma imperfecta de Cell",
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Cell_Imperfecto.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Cell_Imperfecto.png",
         "description": "La forma imperfecta de Cell fue la que todos conocimos por primera vez en el anime, cuando se encontraba absorbiendo la vida de los habitantes de la ciudad. En este estado, su poder no es tan considerable, pero cuenta con las habilidades de muchos Guerreros Z, como el Kamehameha. Aunque en esta transformación, Cell no cuenta con todo su poder, ha sido capaz de incrementar su fuerza tras absorber la vida de los ciudadanos, por lo que podría convertirse en una amenaza y representar peligro. Sin contar que domina ciertas técnicas avanzadas de Goku, Piccolo, entre otros."
       },
       {
         "id": 2,
         "title": "Forma semi-perfecta de Cell",
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Cell_Segunda_Forma_Artwork.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Cell_Segunda_Forma_Artwork.png",
         "description": "La segunda transformación de Cell es la forma semi-perfecta. Esta la consiguió tras haber absorbido al androide 17. No solo su apariencia ha cambiado un poco, ganando más masa muscular, sino que también es capaz de derrotar a muchos personajes. Sin embargo, aunque esta forma semi-perfecta de Cell es mucho más poderosa que la anterior, lo cierto es que no fue rival para Vegeta."
       }
     ]
@@ -130,7 +130,7 @@
     "name": "Chi-Chi",
     "genre": "Femenino",
     "race": "Humana",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/chichi.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/chichi.png",
     "planet": "Tierra",
     "description": "Pese a ser una princesa recibió un duro y estricto entrenamiento de su padre por muchos años logrando así desarrollar una fuerza, velocidad y agilidad superior a los Terrícolas aunque al casarse deja a un lado los combates para encargarse de su familia sin embargo usa su poderosa fuerza cuando sea lo suficientemente necesario o este enojada. Tiene como nuera a Videl y es abuela de Pan.",
     "biography": "Luego de haberse casado con Goku, la Princesa Chi-Chi decide vivir como las personas comunes y da a luz a su primer hijo, Son Gohan, a la edad de 18 años. Chi-Chi se convierte en el estereotipo práctico de una madre asiática y cuatro años más tarde, Goku decide llevarse a Gohan a la Kame House para que conozca a sus antiguos amigos, mientras Chi-Chi decide quedarse en su hogar. Sin embargo, al ver que tardaban demasiado, la mujer viaja a la casa de Kame-Sennin junto al Rey Gyuma para saber el motivo de la tardanza. Muy alterada, Chi-Chi descubre que su esposo había muerto y su hijo había sido raptado por Piccolo y estaba siendo entrenado en las montañas para un futuro ataque Saiyan. Pese a todo el problema, la mujer no interviene en los sucesos del entrenamiento de su familia, y sólo se limita a esperar pacientemente un año para la llegada de los Saiyan junto al Rey Gyuma. Un año más tarde, Chi-Chi volvió a la Kame House y fue testigo de la batalla contra los Saiyan en la bola de cristal de Uranai Baba. En varias ocasiones, la mujer exclama sus disgustos por el peligro que estaba pasando su hijo, e incluso intenta marcharse para ayudarlo, pero los demás la detienen debido a que sería inútil el intento. Luego de la batalla y el retiro de Vegeta, Chi-Chi viajó junto a los demás hacia el escenario del combate, donde encuentra a Goku muy herido y a Gohan inconsciente. Ignorando por completo a su marido, ella cuidó de su hijo e intentó que se levantara, mientras insulta a Goku por dejar que luche contra los Saiyan. Luego del combate, todos se marchan hacia un hospital cercano, en donde curan a Krilin, Gohan y Yajirobe. Sin embargo, Goku todavía no se recuperó por completo, por lo que Chi-Chi decidió permanecer junto a él hasta que vuelva a estar en forma. Además, la mujer intentó rechazar vehemente el intento de Gohan por ir a Namek, pero el niño lanza un potente discurso que la hace entrar en razón y permitirle que haga el viaje. La mujer permaneció un buen tiempo esperando a que su esposo sanara, pero un día Yajirob",
@@ -148,7 +148,7 @@
     "name": "Coola",
     "genre": "Masculino",
     "race": "Clan de Freeza",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Cooler.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Cooler.png",
     "planet": "Desconocido",
     "description": "En el año 737, mientras que Freeza había destruido el Planeta Vegeta, un Kakarotto recién nacido fue enviado para que atacara la Tierra. Viendo que había escapado de la explosión, los secuaces de Coola hicieron planes para derribar la Cápsula de ataque. Coola inesperadamente retrasó la orden, lamentando que su hermano era aún demasiado suave para permitir la fuga de un niño y presunción de que Freeza podría retrasar la aniquilación de la raza saiyana y poner en peligro su familia absoluto sobre la galaxia (y también el hecho de que tenía siete planetas para conquistar o destruir al final del día, lo que lo dejó demasiado ocupado para efectuar la solicitud). También, como era sólo un bebé en aquel momento, él no creía que fuera de cualquier tipo de amenaza inmediata.",
     "biography": "Aproximadamente veintisiete años más tarde, descubrió que su hermano había sido asesinado por un saiyano. Inicialmente escéptico, pronto llega a la Tierra para vengar la muerte de Freeza; sin embargo, él no tiene ninguna compasión por su hermano y sólo desea hacerlo para restaurar su honor familiar. Al llegar, mandó a sus secuaces a encontrar un saiyano, que por supuesto era Goku. Él consigue escapar herido al bloquear un disparo destinado a Gohan, pero pierde de vista a los saiyanos cuando caen por una cascada. No contento con volar el planeta siendo demasiado orgulloso y deseoso de matar a quien hirió su apellido, va a perseguirlos durante un largo trecho. Con los tres de sus secuaces derrotados por Piccolo, él finalmente entra en la batalla y derrota fácilmente a Piccolo antes de enfrentarse contra Goku, recuperado por comer una de las Semillas Senzu, comienza su batalla con Coola. Al principio, él y Goku están bastante igualados, incluso coinciden (demasiado incluso para los gustos de Goku), pero lo honra mostrando su transformación final. Él aumenta significativamente en tamaño, velocidad y fuerza; le crecen cuatro protuberancias para formar una corona sobre su cabeza, con espigas en sus antebrazos, y con una mascarilla blanca, ocultando todos los rasgos faciales excepto sus ojos, que ahora son rojos sin pupilas. Coola es capaz de dominar a Goku fácilmente en esta forma, hasta acabar cansado de luchar y siente que Freeza había avergonzado aún más a su familia muriendo en manos de Goku. Al hacer planes para destruir el planeta, Goku muestra su rabia y se transforma en un Supersaiyano. Fuera de guardia y arrogante, se encuentra en desventaja descubriendo finalmente cómo perdió Freeza, reuniendo suficiente energía para formar una Supernova con la intención de destruir finalmente a su oponente, pero aterriza junto a él. Goku, con un potente Kamehameha, es capaz de contraatacar y enviarlo directamente al Sol. Fue entonces que se dio cuenta de que era el saiyano que había permitido escapar hace casi tres décadas.",
@@ -156,25 +156,25 @@
       {
         "id": 0,
         "title": "Primera transformación",
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Coola.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Coola.png",
         "description": "El temible Cooler, y con ello, una nueva transformación de la raza más fría del universo. Se trataría de un estado superior a la forma final de Freezer, resultando sobrecogedora por su apariencia y poder. Además, también se genera una mascarilla metálica que le recubre la boca. Pese a todo, Goku Super Saiyan pudo rivalizar con él, aunque se vio obligado a catapultarle hasta el sol con su Kamehameha."
       },
       {
         "id": 1,
         "title": "Segunda transformación",
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Metal_Coora.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Metal_Coora.png",
         "description": "En la secuela de aquel largometraje, con Guerreros de fuerza ilimitada, disfrutamos del regreso de Cooler, esta vez, en su forma metálica gracias al Big Gete Star. De hecho, no solo aumentó con creces su poder, sino que pudimos contemplar un auténtico ejército de Metal Cooler, los cuales supusieron todo un desafío para Goku y Vegeta en Super Saiyan (por cierto, esta fue la primera película en la que debutó el príncipe de los saiyans)."
       },
       {
         "id": 2,
         "title": "Tercera transformación",
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Golden_Cooler.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Golden_Cooler.png",
         "description": "Han tenido que pasar décadas para ver la tercera transformación de Cooler, ¡pero por fin ha llegado! La pudimos contemplar en Super Dragon Ball Heroes, la serie anime promocional del arcade homónimo nipón, y no dejó indiferente a nadie. Una vez más, se mantiene la forma base de la primera transformación, añadiéndose los detalles dorados característicos del estado Golden. Como no podía ser de otra manera, su poder sufre un boost importante, siendo capaz de luchar contra Cumber o Goku Berserker."
       },
       {
         "id": 3,
         "title": "Cuarta transformación",
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/golden_metal_cooler",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/golden_metal_cooler",
         "description": "La última transformación de esta gélida familia la contemplamos hace tan solo unos días, con el estreno del episodio 12 de Super Dragon Ball."
       }
     ]
@@ -184,7 +184,7 @@
     "name": "Dende",
     "genre": "Asexuado",
     "race": "Namekiano",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Dende.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Dende.png",
     "planet": "Namek",
     "description": "Dendé (デンデ Dende?) es un pequeño namekiano, que vivía en el poblado de Moori, junto a su hermano Scargo y otros tantos de su especie. Es el hijo 108 del Gran Patriarca y posteriormente Dios de la Tierra, sustituyendo a Dios.",
     "biography": "Dendé aparece por primera vez durante la Saga de Freezer en el pueblo de Moori donde es atacado por Freezer y sus secuaces, Zarbon y Dodoria, que estaban en busca de las Bolas del Dragón. Luego de que sus hermanos fueran asesinados y de que los soldados de Freezer se adueñaran de la ciudad, es rescatado por Gohan y Krilin, de los cuales se hace amigo posteriormente. Freezer se enoja con Dodoria por espantar a Dendé. Dendé ayuda a Krilin a buscar la casa del Gran Patriarca, donde recibe una esfera del dragón de Porunga (dragón namekiano). Poco después, Dendé muere a manos del tirano Freezer en su última forma, con un Rayo Bang. Fue testigo de la llegada a su aldea, de Freezer y sus soldados en busca de las Esferas del Dragón de Namekusei, y de cómo su líder Moori y su hermano Cargo fueron cruelmente asesinados por ellos.",
@@ -202,7 +202,7 @@
     "name": "Dodoria",
     "genre": "Raza de Dodoria",
     "race": "Namekiano",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Dodoria.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Dodoria.png",
     "planet": "Desconocido",
     "description": "Dodoria acompañaría a Freeza, junto con Zarbon y todo un ejército, a Namek en busca de las Esferas del Dragón del planeta, para así Freeza lograría tener la Inmortalidad, para mantener su posición del ser más poderoso del universo por toda la eternidad. Dodoria ayudó a obtener la mayoría de las Esferas del Dragón matando a los Namekianos para obtener información de ellas. Cuando Vegeta llega a Namek y mata a Kewi, el Rastreador de Dodoria tiene la lectura de un nivel de pelea de 24.000 unidades, Dodoria dice que debería ser un error ya que Vegeta sería más fuerte que él. Luego Dodoria se enfrentarían a tres guerreros Namekianos, quienes trataban de ayudar a los sobrevivientes de la aldea del ataque de Freeza. Luego que el trío de Namekianos acabase con soldados de bajo rango, Dodoria mataría a los jóvenes guerreros por orden de Freeza. Para evitar más muerte de sus hermanos, Moori entrega la esfera del dragón, pero Freeza también le pide la ubicación de la siguiente aldea como pago de la destrucción de los Scouter.",
     "biography": "Sin Biografía",
@@ -220,7 +220,7 @@
     "name": "Jeice",
     "genre": "Masculino",
     "race": "Brench",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Jeice.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Jeice.png",
     "planet": "Planeta Coola Nº 98",
     "description": "Sin Descripción",
     "biography": "Jeice es un brenchiano que nació en un planeta localizado en el mismo sistema solar que el Planeta Coola Nº 98. Al igual que los otros miembros de las Fuerzas Especiales Ginyu, sus poderes especiales se originaron durante su infancia: Jeice era lanzador en la Pequeña Liga Galáctica de béisbol, fue allí donde desarrolló su técnica característica Bola Aplastadora. Pronto se unió a las Fuerzas de Combate Especiales Ginyu. Tenía una rivalidad con Thouser, donde ambos discutían sobre quién era el más fuerte y el de mejor aspecto.",
@@ -238,7 +238,7 @@
     "name": "Majin Boo",
     "genre": "Masculino",
     "race": "Majin",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/MajinBoo.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/MajinBoo.png",
     "planet": "Desconocido",
     "description": "El Boo conocido como Super-Boo (超ブウ Chō Bū?), cuyo nombre original y real es Majin Boo Malvado (魔人ブウ 悪 Majin Bū Aku?), es el resultado de la unión entre Majin-Boo Maldad Pura y Boo Gordo, causando un ser más alto que sus formas anteriores y con mayor musculatura. Este nuevo Boo tiene tremendamente más potencia y más inteligencia que la encarnación anterior. No obstante, su inteligencia podía verse nublada dada su poca paciencia y sus ataques de ira extremadamente peligrosos así como una capacidad de absorber mejorada.",
     "biography": "A pesar de su inmenso poder, Super Boo puede aumentar su poder aún más mediante el uso de su capacidad de absorción, convirtiendo a su víctima en alimento antes de comerlos o puede separar una pieza de sí mismo y absorber a la víctima envolviéndola en una masa viscosa a la que puede ajustar su tamaño, esa masa viscosa es su propio cuerpo después de recibir algún ataque del rival. Con cada absorción, cambia siempre de apariencia física, creando una réplica exacta de la ropa absorbida de su víctima, así como las características faciales/cuerpo y otras características, tales como la inteligencia (de Piccolo) y las técnicas, cada vez que absorbe a un oponente su poder aumenta drásticamente (Dependiendo del poder de su rival).",
@@ -246,19 +246,19 @@
       {
         "id": 0,
         "title": "Majin Boo",
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/BuuGordo.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/BuuGordo.png",
         "description": "Históricamente se sabe que Boo se enfrentó a diversos Kaio-shin en una gran batalla, en la que absorbió a varios de estos personajes, incluso también al Kaio-shin del Sur. Con esto, ganó un gran aumento de poder. Sin embargo, no sería hasta que absorbió al Dai Kaio-shin que este sufriría una transformación física, dando como resultado el diseño de Majin Boo gordo que todos conocemos y que tiene una personalidad bastante infantil y, dentro de lo que cabe, bondadosa. Esta entidad amable coexistiría junto a otra de maldad."
       },
       {
         "id": 1,
         "title": "Kid Boo",
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Kid_Buu.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Kid_Buu.png",
         "description": "Después de que Goku y Vegeta, tras ser absorbidos en su forma fusión por Super Boo, recuperaran los cuerpos de Goten, Trunks, Piccolo y Gohan, este individuo perdió todas estas transformaciones. Sin embargo, no fue sino hasta que extrajeron el cuerpo de Majin Boo gordo que ocurrió algo inesperado. Y es que después de que los Saiyan recuperaran el cuerpo de Majin Boo gordo del interior de Super Boo, este también perdió esta transformación, por lo que volvió a su forma original, Kid Boo o Boo puro. La principal característica de esta transformación es que tiene baja estatura, su piel sigue siendo rosada y conserva rasgos parecidos a los de Kid Boo. Sin embargo, esta entidad es maldad pura. Tanto así que, sin dudarlo, destruyó el planeta Tierra de un solo ataque. Esta no solo es la forma original de Boo, sino también la última transformación que sufrió como tal el personaje tras perder a todos los que había absorbido. Sin embargo, pese a eso, es extremadamente poderoso, siendo capaz de luchar contra Goku y Vegeta en sus máximas formas."
       },
       {
         "id": 2,
         "title": "Buu Maldad Pura",
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Der_boo_pure_evil.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Der_boo_pure_evil.png",
         "description": "Tras una serie de desafortunados sucesos."
       }
     ]
@@ -268,7 +268,7 @@
     "name": "Raditz",
     "genre": "Masculino",
     "race": "Saiyano",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/raditz.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/raditz.png",
     "planet": "Vegeta",
     "description": "Raditz (ラディッツ Radittsu?) es el hijo de Bardock y Gine, y hermano mayor de Son Goku. Él es uno de los pocos saiyanos que sobrevivieron a la destrucción del Planeta Vegeta, y formaba parte del equipo de Vegeta. Es el primer antagonista de Dragon Ball Z.",
     "biography": "Raditz llega a la Tierra con su Cápsula de ataque, buscando a un hombre llamado Kakarrot. En su llegada, es atacado por un granjero con un arma de fuego, pero Raditz detiene la bala y se la devuelve. Luego de matar al granjero, recibe una lectura de un nivel de pelea bastante fuerte de su scouter y cree que es de su hermano, Kakarrot. Pensando que es su hermano, sigue el rastro de la lectura, pero se encuentra cara a cara con Piccolo, por lo que se desilusiona y le pregunta a Piccolo dónde podía encontrar a Kakarrot. Piccolo se niega a decirle y le dice que abandone la Tierra, pero Raditz se ríe, por lo que Piccolo le lanza un poderoso ataque, pero Raditz sale ileso, sorprendiendo a Piccolo. El saiyano estaba pronto para destruir a Piccolo, pero de repente lee otro nivel de pelea alto, sabiendo esta vez que es de su hermano.",
@@ -286,7 +286,7 @@
     "name": "Recoome",
     "genre": "Masculino",
     "race": "Raza de Recoome",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Recoome.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Recoome.png",
     "planet": "Desconocido",
     "description": "Al igual que los otros miembros de las Fuerzas Especiales Ginyu, sus poderes especiales se originaron durante su infancia: Recoome practicaba la danza, de esa manera obtuvo la agilidad para crear varias poses de combate. Posteriormente sería reclutado para las Fuerzas Especiales Ginyu.",
     "biography": "Luego de ser llamado por Freezer, Recoome llegaría al Planeta Namek junto al resto de las Fuerzas Especiales Ginyu. Vería la batalla de Guldo y cómo este fue asesinado. Luego sería su turno de luchar. Él siente una gran confianza ante Vegeta, sin embargo este le demuestra que ha mejorado mucho y consigue acertarle varios golpes, sorprendiéndose y no pudiendo ni siquiera defenderse. Recoome se queda tumbado en el suelo, pero se levanta, ya con su armadura destrozada y algunos rasguños, sorprendiendo a Vegeta, Gohan y Krilin. Recoome ataca a Vegeta, este apenas se logra defender y mantenerse en pie, Recoome jugaba con Vegeta al principio, pero le provocó grandes daños con un ataque desde una gran altura. Luego va y lo sujeta de una pierna, levantándolo y exigiendo que la pelea continúe, el Saiyan aprovecha y le lanza una onda de ki en el rostro, derribándolo pero rápidamente se pone en pie. Recoome decide utilizar su técnica favorita, la Pistola Borradora de Recoome, para acabar con el Saiyan, ya que sabe que este está muy débil como para esquivarla. Pero no tendría éxito, ya que Gohan ayuda a Vegeta y Krilin lo golpea en la mandíbula mientras realizaba la técnica. Producto de esto, Recoome pierde un par de dientes, enfadándose, por lo que se levanta y pretende jugar un poco con Gohan y Krilin, pero primero le pregunta a sus compañeros, Jeice y Butta, si lo puede hacer, prometiendo que si lo dejan pagaría el próximo helado, por lo que sus compañeros aceptan. Recoome le pega una fuerte patada a Krilin, dejándolo inmovilizado, reconociendo que le tuvo que haber usado menos poder para jugar un poco más. Gohan sería el único combatiente en pie, Recoome lo ataca y se nota la clara ventaja que posee, pero Gohan igualmente consigue acertarle varios golpes. Luego de un breve combate, finalmente Recoome derrotaría a Gohan con un rodillazo en el cuello, estando a punto de morir según las palabras de Butta y Jeice. Pero justo aparece Goku para ayudarlos. Recoome y sus compañeros se ríen por el bajo nivel de poder que tenía.",
@@ -304,29 +304,29 @@
     "name": "Son Goku",
     "genre": "Masculino",
     "race": "Saiyano",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Goku_DBZ_Base.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Goku_DBZ_Base.png",
     "planet": "Vegeta",
     "description": "También comparado con la mayoría de los humanos, incluidos aquellos entrenados en las artes del ki, Son Goku posee una gran cantidad de fuerza, velocidad y resistencia. Por ejemplo, cuando era un niño, podía levantar un auto sobre su cabeza y tirarlo con facilidad, y durante su entrenamiento con Kame-Sennin Goku podía empujar formaciones rocosas masivas que al menos pesaban más de 100 toneladas. En el punto más alto de su fuerza, mostró la capacidad de destruir montañas, islas e incluso dañar en gran medida planetas enteros con solo la fuerza física. Para la velocidad, mostró velocidades supersónicas incluso más rápidas que la luz cuando llegó al Arco de los Saiyanos. Para cuando se convirtió en Supersaiyano Dios, su velocidad había alcanzado velocidades masivas que la velocidad de la luz y su fuerza física era suficiente para que una de las ondas de choque de sus golpes se sintiera en todo el universo, dañando incalculablemente y destruyendo muchos planetas y estrellas, hasta este punto, solo cuatro golpes.",
     "biography": "Es un experto en artes marciales, bajo el estilo de la Escuela Tortuga, es conocido por ser cercano a un prodigio, logrando aprender técnicas y niveles de fuerza que a otros individuos le tomaría tiempo aprender, incluso supo cómo utilizar habilidades como leer la mente sin siquiera saber cómo hacerlo. Goku ha demostrado utilizar distintas partes de su cuerpo para ayudarlo en un combate, tales como disparar un Kamehameha con los pies, utilizar sus ojos para lanzar un rayo láser de ki en el Arco de Namek y Freeza entre otros ejemplos.",
     "transformations": [
       {
         "id": 0,
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Ozaru.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Ozaru.png",
         "description": "En primer lugar, tenemos al grandioso Ozaru, la forma más bestial de un Saiyan y también la primera que Goku mostró en pantalla cuando tan solo era un niño. Esta transformación hizo su aparición en el episodio 12 de Dragon Ball y lo que la desató fue la luna llena, lo cual hizo que Goku obtuviera su fuerza x10 y un descontrol absoluto de todo lo que hacía en este momento. La única manera de detenerlo fue cortándole la cola."
       },
       {
         "id": 1,
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/SuperSaiyan1.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/SuperSaiyan1.png",
         "description": "Cuando Freezer alcanza su última forma y ha devastado todo a su paso, Goku se ve obligado a superarse a sí mismo, alcanzando el conocido Super Saiyan 1. Esta transformación hace que el cabello de Goku se torne de color rubio y se levante, mientras que sus ojos se vuelven azules y su aura amarilla. En este estado, la fuerza, velocidad, reacción y resistencia aumentan x50, además, el usuario se vuelve más agresivo porque el detonante es la ira. Por ejemplo, lo que hizo que Goku se convirtiera en Super Saiyan fue que Freezer eliminara a Krilin frente a él."
       },
       {
         "id": 2,
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/SuperSaiyan2.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/SuperSaiyan2.png",
         "description": "En la fase Super Saiyan 2 el cabello de Goku se eriza mucho más y su aura obtiene rayos azules, mientras que también hay un pequeño cambio en sus cejas, las cuales son un poco más delgadas y rectas de lo normal. Esta transformación obtiene el poder x2 de Super Saiyan 1."
       },
       {
         "id": 3,
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/SuperSaiyan3.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/SuperSaiyan3.png",
         "description": "Tras los siete años de entrenamiento en el Otro Mundo, Goku se convierte en el primero de su raza en alcanzar la fase Super Saiyan 3. Esta forma obtiene el poder x4 de Super Saiyan 2 y hace que Goku actúe mucho más serio y apático en comparación de cuando usa las anteriores transformaciones."
       }
     ]
@@ -336,7 +336,7 @@
     "name": "Spopovich",
     "genre": "Masculino",
     "race": "Humano",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Spopovich.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Spopovich.png",
     "planet": "Tierra",
     "description": "Tiempo después de haber participado en el anterior torneo, Spopovich participa en la 25ª edición del Torneo de Artes Marciales donde se enfrenta a Videl (la hija de Mr. Satán), donde demostró una nueva fuerza y resistencia resistiendo los ataques de Videl (considerada una chica muy fuerte). A pesar de que esta le rompió el cuello, con un poderoso contraataque la golpeó sin piedad y la habría asesinado de no ser detenido por su compañero Yamu, que le ordenó detener su ataque y permanecer enfocados en su misión. Spopovich finalmente saca a Videl fuera de la plataforma. Poco después de haber ganado el primer combate, durante el combate de Kibito contra Gohan, Spopovich y su compañero atacan a Gohan cuando este se convierte en Super Saiyajin 2 y le extraen la energía para llevarla a Babidi. Cuando llegan hasta la localización de Babidi, este último le agradece su ayuda, pero les dice que sus servicios ya no son requeridos y lo hace explotar acabando con su vida y la de su compañero, que intentaba huir pero no le dio tiempo.",
     "biography": "Spopovich antes era un luchador que participaba en los Torneos de Artes Marciales, pero siempre era derrotado. En años pasados participó en la 24ª edición del Torneo de Artes Marciales donde se enfrentó a Mr. Satán pero fue fácilmente derrotado. Hasta que apareció Bobbidi y al encontrar algo de maldad en él, lo volvió uno de sus sirvientes para reunir energía y así despertar a Majin Boo.",
@@ -354,7 +354,7 @@
     "name": "Bubble",
     "genre": "Masculino",
     "race": "Mono",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Bubble.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Bubble.png",
     "planet": "Kaio",
     "description": "El nombre de Bubbles da su origen del chimpancé mascota del popularmente conocido como el Rey del Pop, Michael Jackson, un famoso cantante, compositor y bailarín estadounidense que falleció en 2009, siendo reconocido como la estrella de música pop más exitosa en el mundo. Su chimpancé curiosamente se llamaba Bubbles; cuyo nombre se traduce como Burbujas al español.",
     "biography": "Una vez que Goku llega al Planeta Kaio se encuentra primero con Bubbles, lo que lo hace pensar rápidamente que él es Kaio del Norte. Bubbles empieza a caminar y hacer tonterías por varios lugares, esto hace que Goku piense que es parte del entrenamiento y lo siga. Luego de ver al verdadero Kaio del Norte, Goku tiene que atrapar a Bubbles, como primera parte de su entrenamiento. Luego de pasar un largo tiempo entrenando, Goku vuelve a la vida y derrota a Nappa y Vegeta. Piccolo, Tenshinhan, Chaoz y Yamcha mueren en su batalla contra los Saiyans, por lo que también van a entrenar con el Kaio del Norte, también teniendo que atrapar a Bubbles, excepto Piccolo ya que el Kaio del Norte sabía que no era necesario que él lo haga. Bubbles moriría cuando Goku se teletransporta al Planeta Kaio junto con Cell y este explota.",
@@ -372,7 +372,7 @@
     "name": "Dr. Gero",
     "genre": "Masculino",
     "race": "Cyborg",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Dr_Gero_Artwork.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Dr_Gero_Artwork.png",
     "planet": "Tierra",
     "description": "Reconocido por su ingenio y mal carácter, Gero fue un famoso genio en la comunidad científica, especializándose en la ingeniería robótica. Fue el científico principal del Ejército del Listón Rojo, creando maquinaria militar y diversos humanos artificiales. Tuvo como esposa a una científica del ejército llamada Vomi, con quien tuvo dos hijos, uno de ellos llamado Gevo quien sirvió en el ejército hasta su muerte.",
     "biography": "Con la llegada de Trunks del futuro, Son Goku y compañía estaban alertados de la existencia de los Androide Número 17 y Androide Número 18 y del Dr. Gero. Aunque avisados, apareció el Androide Número 20 (Dr. Gero) junto al Androide Número 19, a quienes Trunks no conocía, los cuales aparecen en la metrópolis de Ciudad Papaya en la Isla Amenbo, lugar donde Trunks del Futuro dijo que aparecerían los androides, tomando por sorpresa a Yamcha con el Sumidero de Vida 20. El androide absorbió la energía de Yamcha y atravesó su pecho, dejándolo moribundo. Pero Son Goku y compañía se percataron del ataque hacia Yamcha, presentándose los dos androides a los demás. Dr. Gero permite al Androide Número 19 combatir contra Son Goku, contra el cual sale victorioso gracias a que Son Goku sufrió un ataque de su enfermedad. Pero su alegría no duró mucho, ya que Vegeta llegó y convirtiéndose en Super Saiyan, derrota a 19 arrancándole primero sus dos manos y lanzando el ataque que bautizó como (Ataque Big Bang)",
@@ -390,24 +390,24 @@
     "name": "Freezer",
     "genre": "Masculino",
     "race": "Clan de Freeza",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Freezer.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Freezer.png",
     "planet": "Desconocido",
     "description": "No se sabe en qué año nació Freeza, pero su existencia data al menos del Año 731. Freeza había nacido como hijo del Rey Cold. Freeza entrenó en ocasiones con su padre, lo que le parecía divertido. Eventualmente, Freeza se convirtió en líder de un Imperio Galáctico, aunque su verdadero líder fuese Cold, quedó en secreto la presencia de su padre.",
     "biography": "En el año de 737, Freeza contaba con sus esbirros Zarbon y Dodoria, que le sirvieron de guardaespaldas. Un día, Freeza y Zarbon estaban hablando sobre los Saiyan, que se estaban convirtiendo en una unidad de élite del ejército de la organización; Zarbon sugirió al emperador que hiciese algo para remediarlo, cosa que Freeza aceptó, mandando exterminar a todos los Saiyan que se encontrasen fuera del Planeta Vegeta. Freeza envió a Dodoria y su escuadrón de élite al Planeta Meat, con la misión de matar a uno de los escuadrones de Saiyans más poderosos, el escuadrón de Bardock, que sufría de la ausencia de su líder. No obstante, Bardock llegó tarde, justo cuando murió su compañero y amigo Toma, Dodoria y sus secuaces reaparecieron. Aparentemente, el único superviviente de la lucha fue Dodoria, pero Bardock sobrevivió, volviendo al Planeta Vegeta, y contó a otros Saiyans de la traición de Freeza, aunque no le creyeron. Furioso, Bardock salió a la órbita del Planeta Vegeta, y luchó con varios de los soldados de la OIC en su camino hacia la nave espacial del emperador; mientras tanto, otros Saiyan liderados por el Rey Vegeta estaban luchando contra los soldados de Freeza. Después de haber asesinado a muchos integrantes de las tropas de la organización, Freeza salió en persona y mató al Rey Vegeta de un simple puñetazo (la confrontación solo tiene lugar en el anime. Este hecho fue omitido en el manga). Después de matarlo, Freeza mandó a Zarbon abrir la compuerta exterior—diciendo indirectamente a sus secuaces con eso que se enfrentarían al Saiyan rebelde—, el emperador se montó en su silla flotante y salió al encuentro. Bardock dijo que cambiaría su destino y el de su pueblo, e intentó matar a Freeza con su mejor técnica, pero esto no supuso ningún problema para él, que disolvió el ataque en una Supernova y la lanzó sobre el Planeta Vegeta. La Supernova desintegró a Bardock (en el especial Episodio de Bardock, es transportado al pasado y da lugar a la leyenda del Super Saiyan), y a centenares de soldados de la organización.",
     "transformations": [
       {
         "id": 0,
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Freeza2.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Freeza2.png",
         "description": "Esta es la segunda forma de Freezer, que es doblemente más fuerte que la primera. También tiene la misma apariencia, solo que en esta transformación, los cuernos son más grandes, es más alto, y la diferencia de poder es grande. Freezer forma 2 aparecería en el Planeta Namek, al pelear con Gohan, Krillin y Vegeta."
       },
       {
         "id": 1,
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Freeza3.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Freeza3.png",
         "description": "Esta es la tercera transformación de Freezer, su apariencia es algo extraña y horripilante, su poder es gigantesco, donde superaba por mucho a todos los guerreros presentes en la batalla contra él, donde peleaban en el Planeta Namek, con Piccolo, Vegeta, Gohan y estaba Dende, pero solo para curar a los guerreros."
       },
       {
         "id": 2,
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Freeza4.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Freeza4.png",
         "description": "Esta sería la cuarta transformación de Freezer, la cual su poder es inmenso, donde nadie era rival contra él, ni siquiera Son Goku. Cuando llegó al Planeta Namek, este sería derrotado, o mejor dicho lastimado cuando Son Goku le lanza su Genkidama, donde Freezer la soportaría. Aquí estaría peleando con Son Goku y Gohan, tras matar a Dende, Vegeta y Krillin."
       }
     ]
@@ -417,14 +417,14 @@
     "name": "Garlick Jr",
     "genre": "Masculino",
     "race": "Desconocido",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Garlick_Jr._SDBHWM.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Garlick_Jr._SDBHWM.png",
     "planet": "Makyo",
     "description": "Garlic Jr. (ガーリック Jr.?) era un malévolo que ansiaba conquistar la Tierra y vengar la derrota de su padre ante Piccolo Original cuando éstos competían por el puesto del guardián, siglos atrás. Podía transformarse en un guerrero musculoso portador de gran poder. Aparece como el antagonista principal del primer largometraje homónimo de Dragon Ball Z, y posteriormente como el antagonista principal del Arco de Garlic Jr. del dicho anime",
     "biography": "Hace mucho tiempo Garlick fue encarcelado por Kami en el reino de la oscuridad, dejando a su hijo Garlic Jr., con un profundo sentimiento de resentimiento y deseo de venganza. Él es el único personaje en la serie de Dragon Ball que consigue la vida eterna con las Esferas del dragón, gracias a los Cuatro Reyes Celestiales del Clan Demonio, quienes lo ayudan a recogerlas por todo el mundo. En el proceso derrotan a Piccolo quien entrenaba para vengarse de Goku, secuestraron a Gohan para conseguir la esfera de cuatro estrellas cosida en la gorra y dañaron a Chi-Chi y Rey Gyuma, lo que hizo enfadar a Goku.",
     "transformations": [
       {
         "trans": 0,
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Super_Garlic_Jr.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Super_Garlic_Jr.png",
         "description": "Al utilizar el 100% de Poder, pasa a convertirse en un Super Makyano. Como tal, el tamaño, la fuerza, la velocidad y la potencia del usuario aumentan en gran medida. La tonalidad de su piel también cambia, volviéndose de un verde cerceta y distinguiéndolo de su forma base. Es capaz de causar mucho más daño a sus oponentes que en su forma anterior. Esta forma fue utilizada por primera vez en la película contra Goku y Piccolo, y apareció de nuevo en el Arco de Garlic Jr."
       }
     ]
@@ -434,7 +434,7 @@
     "name": "Ghurd",
     "genre": "Masculino",
     "race": "Bas",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Ghurd.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Ghurd.png",
     "planet": "Desconocido",
     "description": "Ghurd (Gurudo), también conocido como Gurdo o Guldo, es un extraterrestre pequeño y verde que pertenecía a las Fuerzas Especiales Ginew. Aunque no es muy fuerte, tiene grandes poderes psíquicos, entre los que destaca una capacidad limitada de controlar el tiempo.",
     "biography": "A su llegada a Namekusei bajo las órdenes de Freeza, Ghurd y los demás miembros de la Fuerza Ginew encontraron a Vegeta, Krilin y Gohan tratando de pedir un deseo con las esferas del dragón, pero sin embargo, cuando Vegeta trata de arrojar una esfera a gran velocidad, Butta muestra su tremenda velocidad y agarra la esfera, mientras Ghurd detiene el tiempo para sacar una esfera del dragón de las manos de Krilin. Ellos juegan un juego de piedra papel o tijeras, con el fin de decidir quién se queda para luchar contra Vegeta y quién se queda con la basura, quienes eran Gohan y Krilin. Reacoom salió victorioso en el juego, y Ghurd en el segundo lugar, por lo que le toca luchar contra Gohan y Krilin. Sin embargo, la velocidad y fuerza de los niños sorprenden a Ghurd, lo que le obligó a recurrir a sus ataques psíquicos más poderosos. Usando sus capacidades mentales, Ghurd usa la congelación del tiempo con el fin de paralizar físicamente los cuerpos de Gohan y Krilin, dejándolos indefensos. Ghurd corta un árbol que se encontraba cerca, y lo afila para que pudiera aniquilar a Gohan y Krilin. Ghurd decide que este último debe morir primero, sin embargo, Vegeta inesperadamente interviene y los salva cortando brutalmente la cabeza de Ghurd (en el manga, Vegeta hace esto con un golpe de costado, mientras que en el anime, utiliza un rayo de energía). Ghurd queda agonizando en el suelo, usando sus últimas palabras para maldecir a Vegeta por interferir, pero el Príncipe Saiyan lo acaba.",
@@ -452,7 +452,7 @@
     "name": "Ginyu",
     "genre": "Masculino",
     "race": "Ginew",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Ginyu.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Ginyu.png",
     "planet": "Desconocido",
     "description": "Su nombre es un juego de palabras con gyūnyū (牛乳), la palabra japonesa para la leche de vaca. Ginew se muestra como una persona muy dura cuando su equipo pierde una batalla, pero también demuestra sentir una preocupación profunda cuando sus compañeros fueron asesinados. Muestra una alta lealtad hacia Freeza, dicha lealtad es tan grande que, incluso cuando estuvo con el cuerpo de rana, intentó detener a los Guerreros Z para que no usen las Esferas del Dragón Namekianas. También muestra ser muy orgulloso, ya que no quiso que Jheese lo ayude en su batalla. En combate, demuestra ser calmado y analítico de la situación, utilizando estrategias en batalla como aprovechar la distracción del enemigo o incluso herirse a sí mismo para luego cambiar de cuerpo y dejar al oponente con su cuerpo malherido. Tiene confianza en su propio poder, creyendo ser el segundo más poderoso del universo, siendo solo superado por Freeza, pero perdió su compostura al ver que Goku tenía un poder de pelea mayor al suyo.",
     "biography": "Al igual que todos los miembros de las Fuerzas Especiales Ginew, Ginew desarrolló su habilidad especial, la de cambiar de cuerpos, durante su infancia. En su niñez, Ginew cambió de cuerpo con el chico más rico de su clase, haciéndose así más popular con las chicas, pero pronto se dio cuenta de que los hombres debían competir por su fuerza y no por su dinero. Coola posteriormente integró a Ginew en sus Fuerzas Acorazadas. Pocas personas conocieron la apariencia real de Ginew, entre ellos está Thouser, quien luchó contra Ginew para convertirse en el líder de las Fuerzas Acorazadas de Coola, no obstante, Freeza lo integró a su ejército poco después. Ginew eventualmente se encontró con un alienígena extremadamente poderoso, miembro de una especie alienígena con cuernos, mientras estaba en una misión con Butta y Jheese, y cambió de cuerpos con este, ganando así su apariencia más conocida por la mayoría de las personas que lo conocen. No obstante, el extraterrestre con el que cambió de cuerpos sigue teniendo el cuerpo original de Ginew.",
@@ -471,7 +471,7 @@
     "name": "Son Goten",
     "genre": "Masculino",
     "race": "Mestizo (Humano, Saiyajin)",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Goten.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Goten.png",
     "planet": "Tierra",
     "description": "Son Goten (孫悟天 Son Goten) es el segundo hijo de Chi-Chi y Son Goku, y hermano menor de Son Gohan, que nació al poco tiempo de la segunda muerte de su padre. Su nombre es un juego de palabras que se puede interpretar en japonés como región baja (Ten) del cielo (Go). En su niñez, Goten es muy parecido a su padre, con el mismo estilo de peinado que Son Goku, un rostro risueño y piel de tez rosada heredada directamente de su madre. En sus primeras apariciones, llevaba un changshan azul con bordes verdes con unas mangas largas y pantalón morado, además de su pantalón sale una tela blanca. Durante su entrenamiento con Gohan para el Torneo Mundial de las Artes Marciales (edición infantil), Chi-Chi le daría un traje similar al gi de su padre, de color naranja con una camiseta azul marino de mangas largas y protectores de similar color. Como niño, mide 123 cm y pesa 26 kg. Apenas crece unos pocos centímetros hasta Dragon Ball Super, notándose su diferencia de menor tamaño comparado a la altura de Trunks.",
     "biography": "Goten nació en el Año 767, su madre lo crió como madre soltera y cuando creció esta notó que era increíblemente fuerte. Como niño, es mucho más fuerte que Goku o Gohan en su infancia. Más tarde sería más débil que Gohan cuando éste era joven, pero más fuerte que Goku en la época de Dragon Ball. Chi-Chi fue la primera persona en verlo transformarse en Super Saiyajin, siendo así el Saiyajin más joven en lograr la transformación con tan solo siete años. Más tarde le revelaría a Gohan que logró la transformación cuando estaba entrenando con su madre, pero que ella le dijo que nunca se transformara de nuevo ya que ella lo consideraba un rebelde. Luego de contarle esto, Gohan le pide a Goten ayuda para entrenar para el Torneo Mundial de las Artes Marciales, y viendo que su hermano menor era muy fuerte pero que no sabía volar, le enseñó a hacerlo. La facilidad con la que controló la transformación es un tema de controversia, ya que le tomó años a Goku y Vegeta dominarla. Cualquiera sea la razón, Goten muestra una potencia excepcional a una edad temprana. Durante la infancia, Goten es el mejor amigo de Trunks, hijo de Bulma y Vegeta. Gracias a las continuas peleas que mantienen Goten y Trunks, han podido llegar a un nivel increíblemente poderoso.",
@@ -479,19 +479,19 @@
       {
         "id": 0,
         "title": "",
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Goten_Super_Saiyan",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Goten_Super_Saiyan",
         "description": "Sin Descripción"
       },
       {
         "id": 1,
         "title": "",
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Goten_Super_Saiyan2",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Goten_Super_Saiyan2",
         "description": "Sin Descripción"
       },
       {
         "id": 2,
         "title": "",
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Goten_Super_Saiyan3",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Goten_Super_Saiyan3",
         "description": "Sin Descripción"
       }
     ]
@@ -501,7 +501,7 @@
     "name": "Gran Gurú",
     "genre": "Asexuado",
     "race": "Namekiano",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Gran_Patriarca_Dokkan.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Gran_Patriarca_Dokkan.png",
     "planet": "Namek",
     "description": "El Gran Patriarca (最長老 Saichōrō) es el líder de todos los namekianos, además de uno de los pocos supervivientes de la Catástrofe Climática en Namek.",
     "biography": "El Gran Patriarca sería uno de los pocos supervivientes de la catástrofe climática producida en Namek. Posteriormente, se volvió el encargado de las esferas del dragón y de la repoblación del planeta.",
@@ -519,7 +519,7 @@
     "name": "Gregory",
     "genre": "Masculino",
     "race": "Sprite",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Gregory.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Gregory.png",
     "planet": "Kaio",
     "description": "Gregory (グレゴリー) es un Sprite macho (confundido con un grillo a veces) con la capacidad de hablar, también es el mayordomo y asistente del Kaio del Norte. Gregory no apareció en el manga original convirtiéndose en un personaje exclusivo del anime; sin embargo, tras la llegada de Dragon Ball Z Kai y Dragon Ball Super, Gregory pasó a formar parte de la historia principal de la serie. Gregory originalmente era un personaje exclusivo del anime que no aparecía en el manga, pero tuvo que ser incluido en la remasterización llamada Dragon Ball Kai como un personaje original ya que solo la serie da resúmenes de toda la serie sin rellenos, pero no se pudo editar escenas en donde este personaje salía, por lo cual pasó a ser un personaje de la historia principal. El nombre de Gregory proviene del nombre del personaje principal de la novela escrita por Franz Kafka llamada La Metamorfosis en la cual el personaje principal se llama Gregory y este se transforma en un grillo o cucaracha. Gregory es muy respetuoso y e",
     "biography": "Los guerreros que consigan llegar al Planeta Kaio y quieran entrenar con éste, deben intentar golpear a Gregory con un martillo, luego de lograr atrapar a Bubbles. Se lleva mal con Goku por cómo lo trata, y el Kaio del Norte le dice que por muy duro que se crea es muy débil. Murió junto al Kaio del Norte y Bubbles cuando Son Goku llevó a Cell al planeta, y el Bio-Androide explotó.",
@@ -537,7 +537,7 @@
     "name": "Kaio del Norte",
     "genre": "Asexuado",
     "race": "Nucleico benigno",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Kaio_del_Norte.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Kaio_del_Norte.png",
     "planet": "Kaio",
     "description": "El Kaio del Norte (北の界王 Kita no Kaiō?); conocido en España como Kaïto e inicialmente como Kaiō-sama, es un personaje de Dragon Ball. Se trata del dios encargado de administrar las Galaxias del Norte, el cuadrante boreal del Universo 7 y supervisar a los dioses de los planetas de dicho sector (como es el caso de Kami en la Tierra). Más tarde se descubre que existen otros tres Kaio, cada uno encargado de su propio punto cardinal de la galaxia, pero por encima de él, en rango, se encuentra el Gran Kaio, que se encarga de supervisar a los cuatro Kaiō.",
     "biography": "Kaiō tiene su propio planeta, que es en realidad un minúsculo astro, aunque antes era enorme, hasta que Beerus, enfadado por perder en las escondidas, lo destruyó. Está situado al final del Camino de la Serpiente, en El Otro Mundo, y en el que apenas cabe una casa, un coche, un árbol y una pequeña carretera que lo rodea. Allí vive junto a su mono Bubbles y Gregory. Son Goku le conoce tras morir por primera vez, en el combate con su hermano Raditz, al encargarle Kami cruzar el camino de la serpiente y entrenarse con Kaiō-sama para prepararse a la llegada de los saiyajin. Tras un largo viaje de más de 100 días, en el que tuvo que recorrer un millón de kilómetros y hacer una visita al infierno, Son Goku consigue llegar a casa de Kaiō y le pide que le entrene. Pero dado que el joven no especifica en qué disciplina, Kaiō del Norte le hace pasar una prueba en la que tiene que conseguir hacerle reír con un chiste, para demostrar ser merecedor de ello. Una vez superados la prueba y el malentendido, Kaiō del Norte decide entrenar a Son Goku en el tiempo que les queda. Su planeta tiene una fuerza de gravedad aproximadamente 10 veces superior a la de la Tierra, por lo que su entrenamiento es muy eficaz. Las primeras pruebas que hace pasar a sus discípulos, y por supuesto a Son Goku, son las de conseguir atrapar a Bubbles y golpear a Gregory con un pesado mazo, para conseguir que se acostumbren a la fuerza de gravedad y ganen velocidad y resistencia. Cuando Son Goku supera estas pruebas, Kaiō-sama decide entrenarle en técnicas de combate, logrando enseñarle con eficacia el Kaiō Ken y la Genki-dama, dos técnicas de su invención, pero que ni él mismo había conseguido llevar a cabo. En el combate entre Son Gohan contra Cell, Son Goku se vio obligado a usar la Teletransportación para alejar al monstruo de la Tierra, llevándolo al planeta de Kaio, donde sin más tiempo, el monstruo estalló, destruyendo el planeta y acabando con la vida de Kaio del Norte, Bubbles, Gregory y Son Goku. A pesar de su totalmente comprensible enfado ini",
@@ -555,7 +555,7 @@
     "name": "Krilin",
     "genre": "Masculino",
     "race": "Humano",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/KrilinZ.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/KrilinZ.png",
     "planet": "Tierra",
     "description": "Tiene seis puntos en la frente y se rasura la cabeza cuando ejerce las artes marciales. Desde el Arco del Monstruo Boo como civil, suele llevar un cabello de color negro y corto, con algunos mechones que ocultan parte de sus puntos en la frente. Como Artista Marcial, Kame-Sennin le dio el Uniforme de la Escuela de la Tortuga, de color naranja con cinta azul oscuro (originalmente el traje era de color rojo y cinta negra), el cual usa siempre excepto en el Arco del Monstruo Boo y con el fondo de la insignia tortuga de color blanco (amarillo en Dragon Ball). Llevaba unas zapatillas chinas de color negro y ocasionalmente la Ropa de Combate Pesada que vestía Son Goku con Kami. En el Torneo del Arco del Monstruo Boo, utiliza un polo rojo y pantalones deportivos color beige. En La Batalla de los Dioses usa un changshan verde con bordados grises y el kanji de la Escuela Tortuga. En La Resurrección de F y en Dragon Ball Super usa un uniforme de policía y un casco y durante su enfrentamiento con el Ejército de F",
     "biography": "Aparece un nuevo enemigo. Pasaron 5 años de paz en los que Krilin se estuvo entrenando (no mucho) y un día vería como Son Goku les presentaría a su hijo, Son Gohan, quien quedó asombrado junto a Kame-Sennin, Bulma y Turtle. Mientras estaba allí llega un ser desconocido quien resulta ser Raditz y decía que era hermano de Goku revelando que eran Saiyan y se lleva a Gohan con él. Krilin y Kame-Sennin se ofrecen para ayudar a Goku a derrotar a Raditz, pero Piccolo entra en escena y habla con Goku para que se unan y así poder derrotar a Raditz y luego tomar caminos separados. Tras la muerte de Raditz y Goku, Yajirobe iría a la Kame House para avisar a Krilin de que Kami quiere entrenarlo junto a los demás. Este se lo diría a Yamcha en medio de un partido de béisbol y a Tenshinhan y Chaoz que estaban entrenando duramente. Finalmente, junto con Tenshinhan, Yamcha, Chaoz y Yajirobe, entrenarían con Kami y Mr. Popo durante 6 meses (los próximos 6 meses lo pasaron perfeccionando su técnica). Se sentía muy confiado y junto a los demás (excepto Yajirobe) utilizarían el Mundo donde el Pasado, Presente y el Futuro se reúnen donde uno a uno morirían (en esta ilusión y no en verdad) por los saiyajin Panpukin y Brocco que eran muy superiores a él. Krilin junto a Chaoz fueron los primeros en morir sin tan siquiera poder defenderse. Después, con la llegada de los saiyajin, sería el primero en llegar junto a dos grandes energías (al principio no sabía si eran Piccolo y Son Gohan o Tenshinhan y Chaoz). Después llegarían los demás para hacer frente a los Saiyan y los Saibaiman. Este vería el combate entre Tenshinhan y Saibaiman, al cual uno de los saiyajin, Vegeta, lo mata con dos dedos, ya que el poder de Tenshinhan era muy superior y sería una pérdida de tiempo. El próximo Saibaiman empezaría a luchar con todas sus fuerzas. Krilin se ofrece a ser el siguiente, pero Yamcha se lo impide y pelea él, que también es algo superior al Saibaiman, pero el plan de Vegeta era que el Saibaiman se autodestruyese y así lo hizo provocando la muerte de Yamcha.",
@@ -573,7 +573,7 @@
     "name": "Maron",
     "genre": "Femenino",
     "race": "Humana",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/maron.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/maron.png",
     "planet": "Tierra",
     "description": "Aparece en la serie como la primera novia de Krilin justo antes de la vuelta de Garlic Jr. Maron fue junto a Krilin a Kame House donde tuvo el valor de insultar a Bulma y Chi-Chi y luego Kame-Sennin hizo uno de sus comentarios donde le pedía a Maron lo mismo que a Bulma. Luego en Kame House se dio un baño junto a Krilin y gracias a eso no fue convertida en demonio como el resto de Guerreros Z. Cuando Krilin fue al palacio de Kami, antes dejó a Maron en lo alto de la Torre de Karin. En la Torre de Karin trataba al maestro Karin como un simple gato. Después Krilin la dejó pensando que él no sería suficiente para ella, quien se iría con otro hombre en la playa, demostrando que realmente no sentía nada por él.",
     "biography": "3 años después, cuando Krilin y los demás están peleando con los androides, Maron va a visitar a Kame-Sennin, en el cual coquetea con su tortuga, este le insiste en que ella ama a Krilin, pero dice que no le hable de Krilin, ella pregunta dónde está Krilin, y Kame-Sennin le cuenta la historia de cómo sucedió todo y lo que están haciendo ahora, a Maron no parece importarle y lo malinterpreta diciendo cualquier cosa, de repente todos los novios de Maron pasan a buscarla, le explica a Kame que todos son muy lindos y no sabe a quién elegir y se va de la casa. Kame-Sennin se da cuenta de que Maron era una enamoradiza por lo que se alegra mucho de que se haya ido y desea que Maron no vuelva nunca más, que ella no era la novia indicada para Krilin, y le pide a su Tortuga que no le diga nada a Krilin, que es mejor que él no se entere de esto, ya que sería muy doloroso para él. Luego de este suceso, no volvió a ser mencionada, ni apareció más en la serie.",
@@ -591,7 +591,7 @@
     "name": "Mr. Satán",
     "genre": "Masculino",
     "race": "Humano",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Mr_Satan.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Mr_Satan.png",
     "planet": "Tierra",
     "description": "Cuando era joven, asistía a un dojo de lucha llamado Castillo Satán. Mediante la combinación de su poder y buena suerte se convirtió rápidamente en el Campeón del Mundo. Tenía la fortuna de enfrentarse a rivales envenenados por la comida. Un día, en un bar de la Capital del Sur (donde estaban de viaje), Satán y su maestro cometieron el error de reírse del cabello de Tao Pai Pai, su maestro fue asesinado y Satán fue seriamente herido. A partir de ahí juró no enfrentarse a nadie sin conocer su identidad, o que pareciera realmente fuerte. El 24° Tenkaichi Budōkai tuvo lugar unos días antes de la llegada de los androides 19 y 20, por lo que los Guerreros Z no participaron. Mr. Satán fue el campeón de esa edición, el cual ganó sin hacer trampa.",
     "biography": "La Tierra puso sus esperanzas en él cuando Cell anunció que pondría en marcha el Cell Game. Por televisión había dicho que el bio-androide no era tan fuerte, y que todo el poder que parecía tener no eran más que trucos, solo una farsa. Así que decidió participar ya que para él no existen humanos más fuertes que él. Llegado el día de los Cell Game va con sus dos discípulos más fuertes según él, tras participar sus discípulos Caroni y Piroshki y al ver que fueron derrotados muy fácilmente, aun así se empeñó en ser el siguiente que luchara contra el bio-androide, a pesar de las advertencias de Son Goku. Comenzó con su típica demostración de romper ladrillos para impresionarlo, lo cual Cell no le tomó importancia. Después le lanzó una lluvia de ataques, entre el que destacó la Dinamyte Kick, pero no sirvió de nada ya que el bio-androide lo hizo volar de allí de un solo manotazo, sin tener ni un rasguño. Cuando el Saiyan, es decir, Goku, abandonó el torneo con la intención de dejar el turno a su hijo, sus discípulos le preguntaron si volvería a pelear porque según Mr. Satan, él se había resbalado. Mr. Satán en ese momento adujo sentir un gran dolor de estómago, así que no pudo salir a pelear. Pero su papel fue determinante: cuando Cell destruyó al Androide 16 y la cabeza de éste cayó cerca del Campeón de Artes Marciales, éste se la lanzó a Son Gohan para animarle a luchar, y lo consiguió: Cell destruyó la cabeza del robot, y Gohan consiguió alcanzar, por primera vez en la serie, el Nivel 2 de Super Saiyan. Tras la destrucción total del bio-androide, Mr. Satán dijo al único reportero que había por la zona que él mismo había acabado con Cell. Desde entonces, Satán sería considerado un héroe en todo el mundo. Se presentó el 25° Tenkaichi Budōkai, en la que también participaba su hija, Videl. Primero le tocó luchar contra el Campeón del Torneo Infantil, Trunks, contra el que se dejó ganar, o eso hizo creer a sus fans, en realidad no tenía oportunidad frente al pequeño saiyajin (incluso llegó a decirle que le pegara quedito).",
@@ -609,7 +609,7 @@
     "name": "Nail",
     "genre": "Asexuado",
     "race": "Namekiano",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Nail.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Nail.png",
     "planet": "Nameck",
     "description": "Nail es un orgulloso guerrero namekiano. Tiene un gran respeto hacia su padre, el Gran Patriarca, y siente una gran furia cuando este se encuentra en peligro. Aunque su orgullo no lo permita, si es para proteger su planeta es capaz de fusionarse con alguien para aumentar su poder y vencer las adversidades. Nail es puro de corazón y siempre protegerá a las personas indefensas.",
     "biography": "Nail aparece cuando Krilin es llevado ante el Gran Patriarca por parte de Dende. El Gran Patriarca desbloquea el potencial y le otorga la Esfera del Dragón a Krilin, aunque Nail desconfía de Krilin. Más tarde, Nail saldría de la casa del Gran Patriarca para enfrentarse a Vegeta, puesto que la presencia de Vegeta ponía en riesgo la vida del Gran Patriarca. Sin embargo, la llegada de las Fuerzas Especiales Ginyu no le deja otra opción a Vegeta que retirarse del lugar. No obstante, más tarde, el Gran Patriarca le ordena a Nail que vaya a ayudar a Vegeta, Krilin y Gohan en la lucha contra Ginyu y sus hombres. Nail se dirige al campo de batalla, pero a mitad de camino decide desobedecer las órdenes que le fueron dadas, ya que presentía que un gran peligro se le acercaba al Gran Patriarca. Una vez que vuelve, es reprendido por el Gran Patriarca, al haber desobedecido sus órdenes y Dende ocupa su lugar para ayudar a Gohan y Krilin a utilizar las Esferas del Dragón namekianas. Pero al poco tiempo, los presentimientos de Nail se confirman, Freeza se dirigía hacia su ubicación con la intención de obligarlos a decirle cómo funcionan las Esferas del Dragón namekianas. Nail provoca a Freeza a combatir, y luego se lo lleva lejos de allí para ganar tiempo. Luego de un rato, Freeza decide detenerse y empezar el combate, diciendo que sólo utilizará un brazo para luchar. Nail demuestra todo su poder, sorprendiendo a Freeza ya que tenía un poder de 42.000 unidades, por lo que le dice que le gustaría tenerlo en las Fuerzas Especiales Ginyu. Sin embargo, el poder de Freeza era superior, demostrando su poder amputándole un brazo a Nail, casi dejándolo sin fuerzas. Sin que Freeza lo supiera, Nail cumple su objetivo y le hace perder tiempo al tirano, así Dende encontrará a Krilin y Gohan e invocaron a Polunga. Freeza explota de furia al enterarse y abandona el campo de batalla, dejando a Nail moribundo. Luego de que Piccolo fuera revivido y enviado a Namek, se encuentra con Nail, quien revela que siendo ambos Namekianos de raza guerrera p",
@@ -627,7 +627,7 @@
     "name": "Nappa",
     "genre": "Masculino",
     "race": "saiyano",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/nappa.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/nappa.png",
     "planet": "Vegeta",
     "description": "Nappa es un saiyano musculoso y muy alto. Aparenta ser un hombre joven cuando llega a la Tierra, pero en realidad tiene aproximadamente 50 años. Cuando era joven tenía pelo y su peinado era una cabellera corta de color negro, y su bigote en su juventud era más corto, pero decidió quedarse calvo y dejó crecer su barba. Como la mayoría de los saiyanos, Nappa viste una armadura de combate y lleva un rastreador de color morado, vestimenta típica del Imperio de Freeza.",
     "biography": "Nappa nació en una distinguida familia de la nobleza y tuvo un poder de pelea muy alto, considerándose como un guerrero saiyano de élite de nivel superior, estando en la clase alta. Luego se convirtió en un subordinado directo del Príncipe Vegeta, quien fue asignado más tarde a dicho grupo. Nappa, junto a Raditz, Vegeta y otros dos camaradas, estaba conquistando un planeta en el año 739, misma fecha en la que el Planeta Vegeta fue destruido a manos de Freeza. Nappa y Vegeta llegarían a la Tierra, luego Nappa, para demostrar su poder, destruye gran parte de la Capital del Este. Vegeta le dice que piense antes de hacer eso, ya que si las Esferas del Dragón estaban en el lugar y las destruyó con su saludo, lo matará, ya que no podrían concederle su deseo. Luego usa su rastreador para ubicar los dos poderes más grandes del planeta, dirigiéndose hacia donde se encontraba Gohan y Piccolo, pero luego en el lugar llegarían Krilin, Ten Shinhan, Yamcha y Chaoz. Nappa hace una lectura de los poderes de sus oponentes y se burla ya que son muy bajos, pero Vegeta se saca su rastreador y dice que ellos tienen la habilidad de esconder su verdadero poder, por lo que los rastreadores son inútiles en estos casos. Luego, Vegeta le pregunta a Nappa si tenía aún las semillas de Saibaiman y éste le dice que sí, que aún quedaban 6, y las planta en el suelo, para que los Guerreros Z luchen contra ellos. Ten Shinhan derrota primero a un Saibaiman, haciendo que Nappa se enoje. Luego de eso, Krilin planea pelear, pero Yamcha le dice que él luchará primero. La pelea da comienzo, y luego de un rato de pelea, Yamcha cree haber derrotado al monstruo, pero el Saibaiman se levanta y lo agarra y luego explota junto a este, muriendo ambos en el acto. Esto hace que Nappa se enoje aún más, ya que no le gusta que haya un empate. Luego, Krilin, enojado, realiza una técnica poderosa la cual hace que todos los Saibaiman sean derrotados, a excepción de uno, que luego sale del escondite e intenta atacar a Gohan, pero Piccolo derrota a uno de los Saibaiman.",
@@ -645,7 +645,7 @@
     "name": "Piccolo",
     "genre": "Asexuado",
     "race": "Namekiano",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Piccolo.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Piccolo.png",
     "planet": "Nameck",
     "description": "Piccolo (ピッコロ Pikkoro) o Piccolo Jr. (ピッコロ・ジュニア Pikkoro Junia), también conocido bajo el seudónimo de Ma Junior (マ・ジュニア Ma Junia), es uno de los personajes principales que aparece en el manga y anime de Dragon Ball y sus correspondientes secuelas. Es un namekiano que surgió tras ser creado en los últimos momentos de vida de su padre, siendo su actual reencarnación. Aunque en un principio fue el archienemigo de Son Goku, con el paso del tiempo fue haciéndose menos malvado hasta finalmente convertirse en un ser bondadoso y miembro de los Guerreros Z. A través del tiempo, también comenzó a tomarle cariño a su discípulo Son Gohan, a quien veía como una especie de vástago y formando un lazo de amistad con este. Su nombre Piccolo (ピッコロ, Pikkoro) viene del instrumento Flauta Piccolo que es 'Flauta Pequeña' en italiano. Dentro de la serie misma, se dice que Piccolo significa 'de otro mundo' o 'abierto' en el idioma de los namekianos. Piccolo, además de ser una representación de una babosa verde de Mozambique.",
     "biography": "Cuando el saiyan Raditz (hermano de Son Goku) llega a la Tierra, empieza a buscar al guerrero más fuerte del planeta. En eso encuentra a Piccolo con quien tiene un breve contacto. El namekiano fue incapaz de hacerle daño alguno, sin embargo, Raditz se marcha antes de acabar con él al encontrar una señal de un individuo con un poder algo mayor. El namekiano seguiría a Raditz hasta Kame House, observando y oyendo el encuentro del saiyan con su hermano. Piccolo se uniría a Goku para hacer frente a Raditz, quien se había llevado a Gohan consigo. Ambos lo siguieron y comenzaron el combate con él, pero fueron superados en fuerza, por lo que Goku decide distraerlo para que Piccolo lo pueda atacar con su nueva técnica llamada Makankosappo. Goku sostiene a su hermano de la cola de tal forma que Piccolo lo atraviese con su nueva técnica. Pero Raditz lo engaña para que lo suelte, logrando esquivar la técnica. Todo parecía perdido hasta que un Gohan furioso, por lo que Raditz le hacía a su padre, lo ataca con todas sus fuerzas, haciéndole un gran daño, hecho que sorprendió a todos. Goku aprovechó el momento y agarró a su hermano por la espalda, quien no pudo liberarse debido al daño que había recibido, entonces Piccolo lanzaría otro Makankosappo el cual dio en el blanco, atravesando a ambos hermanos. Piccolo se acercaría a un agonizante Raditz para decirle que Goku reviviría gracias a las Esferas del Dragón. Dicha información sería recopilada por el rastreador de Raditz dando cuenta de ello a Vegeta y Nappa, por lo que el saiyan le afirmó a Piccolo que sus amigos se dirigirían a la Tierra. Goku mostraría señales de vida, a pesar de tener el pecho perforado, preguntándole cuándo llegarían, su hermano respondería que dentro de un año, burlándose de Piccolo debido al tiempo que le quedaba de vida provocando la ira de éste quien lo remataría. Kame-Sennin y los demás llegarían al campo de batalla observando que el único en pie era Piccolo. El namekiano les explicaría lo acontecido. Tras esto, Piccolo se llevaría a Gohan ante la ",
@@ -663,7 +663,7 @@
     "name": "PuiPui",
     "genre": "Masculino",
     "race": "Zuníes",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Pui_Pui.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Pui_Pui.png",
     "planet": "Zun",
     "description": "Pui-Pui (プイプイ PuiPui) es un guerrero del Planeta Zun que sigue las órdenes de Babidi. Pui-Pui tiene la apariencia física de un extraterrestre xenomorfo, su armadura biológica se parece a la de Freezer en su tercera forma, tiene un traje azul oscuro, botas y guantes iguales que a las de Vegeta, en su espalda tiene 2 cuernos de color blanco que son del mismo color de su armadura, su rostro parece de color salmón oscuro o morado oscuro, tiene ojos completamente verdes sin pupilas y sus labios tienen un borde amarillo.",
     "biography": "Pui-Pui aparece por primera vez junto a Babidi recibiendo la visita de Spopovich y Yamu. El brujo hace que la cabeza de Spopovich explote, dando como resultado la huida de Yamu. Bajo las órdenes de Babidi, Pui-Pui utiliza su Cañón de Ki y destruye a Yamu. Más tarde aparece en la Nave de Babidi como el jefe del primer nivel, donde debe enfrentarse a Vegeta. Al ser superado fácilmente por el Saiyan, Babidi teletransporta a ambos al Planeta Zun, lugar donde cree obtener la ventaja al tener la gravedad aumentada 10 veces. No obstante, Vegeta vuelve a derrotarlo con mucha facilidad en su estado base, para luego desintegrarlo.",
@@ -681,7 +681,7 @@
     "name": "Rey Cold",
     "genre": "Masculino",
     "race": "Mutante de la raza de Freeza",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Rey_Cold_Dragon_Ball_Super_Broly_artwork.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Rey_Cold_Dragon_Ball_Super_Broly_artwork.png",
     "planet": "Desconocido",
     "description": "Cold (コルド Korudo) es un extraterrestre proveniente de la misma raza de la de su hijo Freeza. Él es el padre de Freeza y Coola; y abuelo de Kuriza (en Neko Majin Z), y además es en secreto el líder del Imperio Intergaláctico del Universo 7 junto a sus hijos. Al igual que el nombre de su hijo menor, el suyo hace alusión a las bajas temperaturas. Su nombre en japonés proviene directamente de una deformación del vocablo anglosajón cold (コールド Kōrudo), cuyo significado en español es frío. Cold tiene un gran parecido a Freeza en su segunda forma, solo que sus cuernos están segmentados y son más grandes, la piel es morada (como la de Coola pero más clara), su altura es mayor y su esfera es de color verde oscuro. Lleva una armadura del ejército de su hijo de color negro y una gran capa. Según lo dicho por Coola, su padre era el motivo por el que no mataba a Freeza, por lo que muestra preocupación por lo que suceda con sus hijos, como cuando se le vio buscando a Freeza tras la explosión del Planeta Namek y se enfadó.",
     "biography": "Tras la derrota de Freeza, Cold se acerca con su nave a donde estaban los restos del planeta Namek buscando a su hijo y se enfada diciendo que era imposible que su hijo fuese derrotado, ya que eran los más poderosos del universo. Cuando un subordinado cree que no hay esperanza de encontrarle vivo, rompe un cristal de la nave y uno de sus subordinados es llevado por un fuerte viento ante su fría mirada. Luego se entera de que su hijo está vivo y envía a buscarlo. Posteriormente supervisa cómo sus subordinados curan a Freeza y se alegra al ver que han logrado hacer volver a Freeza transformado en medio robot. Este le dice que debe ir a la Tierra y vengarse de Goku, poniéndole el apodo de El Super Saiyan. Tras curar y aceptar la petición de su hijo Freeza, Cold marcha junto a este a la Tierra y adelantan la nave de Goku. Una vez en la Tierra, Freeza ordena matar a los humanos para desmoralizar a Goku, pero justo aparece Trunks. Cold dice que solo un miembro de su raza puede ser el más fuerte del universo y promete ayudar a Freeza a asesinar a Goku si hace falta. Cuando Trunks mata a Freeza, Cold, demostrando su frialdad, intenta unirlo a su familia, ya que Trunks era el nuevo número uno del universo, pero Trunks se niega. Cold, como última alternativa, le pide a Trunks que le deje su espada ya que pensaba que así conseguiría ganar a Trunks, pero es derrotado por el Super Saiyan. En el manga, lo aniquila al instante, pero en el anime hay una escena lastimosa en la cual suplica por su vida.",
@@ -699,7 +699,7 @@
     "name": "Son Gohan",
     "genre": "Masculino",
     "race": "Mestizo (saiyan y Humano)",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Son_Gohan.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Son_Gohan.png",
     "planet": "Tierra",
     "description": "Son Gohan, Son Gohanda en su tiempo en España, o simplemente Gohan en Hispanoamérica, es uno de los personajes principales de los arcos argumentales de Dragon Ball Z, Dragon Ball Super y Dragon Ball GT. Es un mestizo entre saiyano y humano terrícola. Es el primer hijo de Son Goku y Chi-Chi, hermano mayor de Son Goten, esposo de Videl y padre de Pan. La apariencia de Gohan cambia drásticamente a través de los acontecimientos de Dragon Ball Z, debido al hecho de que la historia comienza con él siendo un niño, y termina como un hombre casado, y con una familia propia. Pero el aspecto básico de Gohan prácticamente",
     "biography": "Piccolo siente el poder de Gohan y se lo lleva para entrenarlo dejándolo solo en la naturaleza para que aprenda a sobrevivir frente a dinosaurios durante 6 meses. Pese a todo, Piccolo lo vigila muy de cerca. Dos veces Gohan al mirar la luna llena se transformó en Ōzaru y Piccolo tuvo que cortarle la cola. Hubo una vez en que Gohan tuvo oportunidad de escaparse y apareció en una pequeña aldea donde lo encontraron niños huérfanos que incluso lo defendió de los hombres que se los querían llevar a la casa hogar incluyéndolo, pero gracias a la ayuda de su amigo Figuero él escapa y se dirige a casa, pero antes de irse a su casa reacciona y decide entrenar para derrotar a los saiyanos. El resto del año Piccolo le enseña al pequeño cómo luchar sin apiadarse de él. Sin embargo, la naturaleza amable de Gohan hace que Piccolo le tome mucho cariño. Este guerrero namekiano que fue en su día enemigo de Goku, se convierte en un buen amigo y un estricto maestro del pequeño Gohan. El futuro guerrero admira a su maestro namekiano e incluso empieza a vestirse del mismo modo que este. Su duro entrenamiento fue seis meses prácticamente abandonado a su suerte en un lugar algo desértico y luego cuando dejó de ser un niño llorón, entrenó muy duramente con su maestro Piccolo. Cuando llega el momento de los Guerreros Z para enfrentarse a los dos saiyanos, Vegeta y Nappa, Gohan alcanza el poder de 981 e intenta luchar con valentía pero, debido a su corta edad, se asusta, sin embargo en el último segundo, Gohan se arma de valor y consigue darle una potente patada a Nappa que lo deja empotrado en una roca. Cuando Nappa, furioso, lanza un rayo de energía letal a Gohan, Piccolo se lanza delante de Gohan para protegerle, muriendo en el acto. Ante la muerte de su mejor amigo y mentor, lanza a Nappa un Masenko con un poder de 2.800 que le podía haber destrozado si no se hubiese protegido, después de eso aparece Goku para ayudarlo a él y a Krilin, los únicos sobrevivientes, gracias a Goku. Más adelante después de que Vegeta se transformara en un",
@@ -707,19 +707,19 @@
       {
         "id": 0,
         "title": "",
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Gohan_Super_Saiyano.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Gohan_Super_Saiyano.png",
         "description": "Gohan fue el último saiyan al que realmente le costó mucho esfuerzo lograr esta transformación y lo consiguió tras un intenso entrenamiento con su padre en la Cámara de Tiempo Hiperbólica donde un día real se convierte en un año dentro de esta estancia. Es por ello por lo que en tan corto periodo de tiempo en el mundo exterior y ante la amenaza de Cell, Gohan fue capaz de alcanzar el Super Saiyan en un arrebato de ira cuando estaba a punto de ser alcanzado por un kamehameha de Goku que podría haber matado a su propio hijo."
       },
       {
         "id": 1,
         "title": "",
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Gohan_Super_Saiyano2.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Gohan_Super_Saiyano2.png",
         "description": "Goku durante toda la saga de Cell presume del poder de Gohan y que éste se desataría si saca toda la ira que posee en su interior, pero, Gohan que no tiene ese espíritu de lucha que caracteriza a los saiyan es reacio a combatir y por ende a desatar todo su poder. Cell, consciente de ello, y que además posee células saiyan quiere enfrentarse a su rival con todo su poder al máximo, es por ello que usa todo tipo de artimañas para lograr enfurecer a Gohan. Los Cell Jr. Atacan a los amigos de Gohan dejándolos cerca de la muerte lo que provoca que Gohan quede exhausto, y lo que termina por provocar el estallido final y alcanzar el Super Saiyan 2 es la muerte de su amigo el Androide Nº16 con la cabeza aplastada de forma despiadada por Cell. Gohan sentía mucha empatía por esta creación del Doctor Gero, ya que compartía muchos de los valores que predicaba, como la de combatir solo por aquello que desea proteger y su amor por la naturaleza. Son Gohan ostenta dos récords al lograr el Super Saiyan 2, y es que, se convierte en el primer saiyan en alcanzar este estado y a su vez también en el más joven que lo consigue."
       },
       {
         "id": 2,
         "title": "",
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Gohan_Super_Saiyano3.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Gohan_Super_Saiyano3.png",
         "description": "sin descripción"
       }
     ]
@@ -729,7 +729,7 @@
     "name": "Trunks",
     "genre": "Masculino",
     "race": "Mestizo (Saiyano y humano)",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Trunks.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Trunks.png",
     "planet": "Tierra",
     "description": "Trunks nace en noviembre del año 766 como hijo de Vegeta y Bulma, lo que lo convierte en un mestizo entre Saiyan y terrícola. Es considerado como un hijo ilegítimo debido a que fue concebido como resultado de una breve aventura entre sus padres. En su infancia, fue muy querido por su madre, pero parecía que su padre tenía pocas o ninguna emoción paterna hacia el niño debido a que Vegeta nunca quería tener hijos y veía a los mestizos como una desgracia. Sin embargo, después del final de los Juegos de Cell, la relación entre sus padres mejoró y se casaron, y comenzaron a criar a Trunks como familia. Durante la infancia de Trunks, su madre y su familia lo prodigaron, pero Vegeta demostró ser más estricto en lo que respecta al entrenamiento y comportamiento de Trunks. Trunks vino a idolatrar a su padre y desarrollaron una buena relación, a pesar de las frecuentes ausencias de Vegeta en su familia y la falta de voluntad de este para hacer ciertas actividades familiares.",
     "biography": "Tres años trascurren desde que Trunks del Futuro Alternativo le advirtió a Son Goku sobre los Androides y el Trunks del presente nace producto de la relación entre la terrícola Bulma y el príncipe saiyan Vegeta. El día de la llegada de los androides, Bulma trae consigo al bebé Trunks para presentárselo a los Guerreros Z. Krilin y Gohan asumen que Yamcha debe ser el padre, pero se sorprenden cuando Goku los corrige diciendo que Vegeta es el verdadero padre. Bulma pregunta cómo es que Goku lo sabía porque quería darles la sorpresa a todos y Goku le miente diciendo que lo supuso porque Trunks se parece a Vegeta. Mientras los Guerreros Z se enfrentan al Androide Número 19 y al Androide Número (quien este último es en realidad el Dr. Gero), Bulma decide ir al campo de batalla para ver a los androides, pero también para que Vegeta vea a Trunks, y obliga a Yajirobe a acompañarla. Durante el combate contra el Dr. Gero, Trunks y su madre corren peligro cuando el científico malvado destruye el vehículo en el que viajaban pero son salvados por el Trunks del futuro, quien intervino cuando Vegeta no quiso ayudarlos. Antes de irse a perseguir al Dr. Gero, Piccolo revela la identidad del joven misterioso como la contraparte del futuro de su hijo a Vegeta y luego también a Bulma, quien se sintió aliviada al saber que Trunks no crecería para parecerse a su padre. Mientras los demás van tras el androide que se había dado a la fuga, Gohan se queda atrás para llevar a Trunks, Bulma y Yajirobe a la Corporación Cápsula por su propia seguridad. Un par de días después, el bebé Trunks va con su madre a entregarle el control remoto a Krilin y luego se dirigen a la Atalaya de Kami mientras Vegeta y Trunks del Futuro Alternativo pelean contra Cell. Después de que Son Gohan derrotó a Cell, Trunks ha aprendido a caminar y Vegeta comienza a desempeñar un papel más activo en la crianza de Trunks, habiendo llegado a aceptarlo como su hijo después de haber experimentado su trágica pérdida cuando Cell mató a Trunks del Futuro Alternativo en los",
@@ -737,31 +737,31 @@
       {
         "id": 0,
         "title": "",
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Trunks_Super_Saiyan.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Trunks_Super_Saiyan.png",
         "description": "En el segundo episodio en que apareció, Trunks se transformó sin mucha dificultad en Super Saiyajin y así demostró ser superior a Mecha Freezer y su padre, el Rey Cooler, quienes fueron despedazados en segundos."
       },
       {
         "id": 1,
         "title": "",
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Trunks_Super_Saiyan2",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Trunks_Super_Saiyan2",
         "description": "Esta forma la alcanzó exclusivamente en Dragon Ball Super, luego de que regresara a la línea del tiempo canon, en donde pelea contra Goku en su forma de Super Saiyajin 3. En el anime pierde de manera contundente, pero en el manga ocurre algo muy distinto."
       },
       {
         "id": 2,
         "title": "",
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Trunks_Super_Saiyan2_Superior.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Trunks_Super_Saiyan2_Superior.png",
         "description": "En el manga de Dragon Ball Super Trunks se transforma en Super Saiyajin 2, pero al darse cuenta que el SSJ3 es superior, decide usar toda su fuerza. Ahí incrementa sus poderes al grado de que Vegeta asegura que son similares a los de Kakarotto."
       },
       {
         "id": 3,
         "title": "",
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Trunks_Super_Saiyan3.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Trunks_Super_Saiyan3.png",
         "description": "Esta transformación sólo apareció en el anime spin off promocional Dragon Ball Heroes, en donde todos los saiyajin alcanzan niveles de poder muy elevados, con el objetivo de lanzar cartas que incrementen los decks."
       },
       {
         "id": 4,
         "title": "",
-        "image": "https://dragonballapp.vercel.app//static/images/sagaz/transformations/Trunks_Super_Saiyan_dios.png",
+        "image": "https://dragonballapp.vercel.app/static/images/sagaz/transformations/Trunks_Super_Saiyan_dios.png",
         "description": "En el anime promocional que estrena un episodio mensual, Super Dragon Ball Heroes, el héroe del tiempo puede liberar el poder de los dioses. Su cabello largo se torna completamente rojo, al igual que sus pupilas."
       }
     ]
@@ -771,7 +771,7 @@
     "name": "Videl",
     "genre": "Femenino",
     "race": "Humana",
-    "image": "https://dragonballapp.vercel.app//static/images/sagaz/Videl.png",
+    "image": "https://dragonballapp.vercel.app/static/images/sagaz/Videl.png",
     "planet": "Tierra",
     "description": "Anteriormente a Dragon Ball Z, Videl participa en la categoría infantil del 24º Torneo de Artes Marciales; donde queda campeona a la edad de 7 años. Preparatoria Estrella Naranja Videl aparece por primera vez en el Episodio 200 del Anime de Dragon Ball Z y en el episodio 421 del Tomo 36 del Manga. Su primera aparición es cuando Gohan se transforma en Super Saiyajin para detener a unos delincuentes en Ciudad Satán y luego lo encuentra des-transformado cerca del lugar de los hechos, empezando a sospechar que Gohan es el Guerrero Dorado.",
     "biography": "En una clase, la Policía llama a Videl para que la ayude a combatir el crimen. Gohan, pensando que puede estar en peligro, se disfraza del Gran Saiyaman para ayudarla, aunque Videl podía sola contra los delincuentes. El Gran Saiyaman la salva de un hombre armado, y luego ve las poses que el héroe hace y les parece ridículas. Luego el Gran Saiyaman comete el gran error de llamarla Videl, por lo que Videl confirma sus sospechas y descubre que Gohan es en realidad el Gran Saiyaman. También descubre que Gohan puede volar, y luego dice que no es un truco. Inmediatamente después de haberlo desenmascarado, Videl lo chantajea pidiéndole que le enseñe a volar y que participe en el Torneo de Artes Marciales Nº25, ya que si no lo hace les dirá a todos su identidad secreta. Gohan no tiene más remedio que aceptar la propuesta de Videl. Al día siguiente al acuerdo, la misma Videl va a la casa de Gohan a tomar sus clases de vuelo, pero primero debe aprender lo que es la energía. Gohan se sorprende de lo rápido que Videl aprende a controlar su energía, y dice que se nota que Videl ha entrenado Artes Marciales. También logra levitar un poco, pero pese a las palabras de Gohan, Videl decide volver mañana. Gohan le aconseja que se corte el cabello, ya que es más cómodo para pelear. Al día siguiente, una nueva Videl llega a la residencia de Gohan con el cabello corto. Esta aparece mostrándole a Gohan que ya puede levitar mucho más que el día anterior. Videl dice que vendrá todos los días hasta que pueda volar como Goten, ya que este volaba mucho más rápido que ella. También le pide a Gohan que mantenga esto en secreto, ya que quiere darle una sorpresa a su padre. Durante este período de entrenamiento, ambos comienzan a enamorarse, aunque siempre es ligeramente negado por los dos. Luego de 10 días, Videl ya aprendió a volar rápidamente, permitiendo así que Gohan pueda entrenar con Goten. También se le muestra entrenando en su casa días antes del Gran Torneo. Mientras Mr. Satán habla con la prensa, Videl se siente incómoda y quiere",
